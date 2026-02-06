@@ -1,0 +1,8 @@
+Package: wisspar
+Title: WISSPAR Project
+Version: 0.1.0
+Authors@R: person("Pneumococcal", "Capsules", email = "", role = c("aut", "cre"))
+Description: Project scaffold for the WISSPAR repository.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
