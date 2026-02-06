@@ -1,0 +1,29 @@
+keyword,vaccine_name,manufacturer,valency
+Synflorix,PCV10 (Synflorix),GSK,10
+PNEUMOSIL,PCV10 (Pneumosil),Serum Institute of India,10
+Prevnar 13,PCV13 (Pfizer),Pfizer,13
+Prevenar 13,PCV13 (Pfizer),Pfizer,13
+PCV-13,PCV13,Pfizer,13
+13-valent,PCV13,Pfizer,13
+13vPnC,PCV13,Pfizer,13
+V114,PCV15,MSD,15
+15-valent,PCV15,MSD,15
+15vPnC,PCV15,MSD,15
+Prevnar 20,PCV20,Pfizer,20
+20vPnC,PCV20,Pfizer,20
+20-valent,PCV20,Pfizer,20
+V116,PCV21(Merck V116),MSD,21
+21-valent,PCV21(Merck V116),MSD,21
+VAX-31,PCV31 (Vaxcyte VAX-31),Vaxcyte,31
+31-valent,PCV31 (Vaxcyte VAX-31),Vaxcyte,31
+VAX-24,PCV24 (Vaxcyte VAX-24),Vaxcyte,24
+24-valent,PCV24 (Vaxcyte VAX-24),Vaxcyte,24
+IVT PCV-25,PCV25 (Inventprise),Inventprise,25
+PCV25,PCV25 (Inventprise),Inventprise,25
+25-valent,PCV25 (Inventprise),Inventprise,25
+Pneumovax,PPV23,MSD,23
+PPSV23,PPV23,MSD,23
+PPV23,PPV23,MSD,23
+Prevnar 7,PCV7,Pfizer,7
+7vPnC,PCV7,Pfizer,7
+7-valent,PCV7,Pfizer,7
