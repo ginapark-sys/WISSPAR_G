@@ -55,9 +55,113 @@ This project works with structured CSV datasets and requires specific data forma
 - Group IDs follow predictable patterns, and immunogenicity data can be identified by searching for "OPA" or "IgG" indicators in outcome titles.
 - Maintaining consistent CSV formatting with predefined fieldnames ensures compatibility across dataset expansions.
 
-## Extraction Script
+## Dual-Extraction Workflow (Primary)
 
-The automated extraction script is at `scripts/extract_trial.py`. It handles fetching, parsing, validation, and appending in one step.
+The primary extraction method uses two independent agents for verification. Use `scripts/dual_extract.py` for all new extractions and retroactive verification.
+
+### Architecture
+
+```
+dual_extract.py (orchestrator)
+  ├── Fetches JSON once → data/extractions/{nct_id}/raw.json
+  ├── Agent A (extractor_a.py) → keyword-first classification
+  ├── Agent B (extractor_b.py) → schema-aware classification
+  └── Reconciler (reconcile.py) → compares, auto-accepts agreements, flags disagreements
+        ├── Agreements → auto-accepted
+        ├── Numeric disagreements → flagged as bugs
+        ├── Categorical disagreements → review.csv for human adjudication
+        └── Selection disagreements → review.csv for human adjudication
+```
+
+### Usage
+
+```bash
+# Extract a trial (dual mode):
+python scripts/dual_extract.py NCT06151288
+
+# Multiple trials:
+python scripts/dual_extract.py NCT06151288 NCT03197376
+
+# Preview without writing:
+python scripts/dual_extract.py --dry-run NCT06151288
+
+# Force re-extract even if already in dataset:
+python scripts/dual_extract.py --force NCT06151288
+
+# Search and extract:
+python scripts/dual_extract.py --search "pneumococcal conjugate vaccine"
+```
+
+### Resolving Disagreements
+
+When agents disagree, a review CSV is generated at `data/extractions/{nct_id}/review.csv`. Fill in the `chosen_value` column and run adjudication:
+
+```bash
+# Apply decisions from edited review.csv:
+python scripts/adjudicate.py NCT06151288
+
+# Interactive terminal prompts instead:
+python scripts/adjudicate.py --interactive NCT06151288
+
+# Accept all Agent A or B values:
+python scripts/adjudicate.py --accept-a NCT06151288
+python scripts/adjudicate.py --accept-b NCT06151288
+
+# Check current status:
+python scripts/adjudicate.py --status NCT06151288
+
+# Append resolved rows to CSV after adjudication:
+python scripts/adjudicate.py --append NCT06151288
+```
+
+### Retroactive Verification
+
+To re-verify existing data against both agents:
+
+```bash
+# Verify all trials in the dataset:
+python scripts/verify_existing.py
+
+# Verify specific trial:
+python scripts/verify_existing.py NCT06151288
+
+# Generate a verification report CSV:
+python scripts/verify_existing.py --report data/verification_report.csv
+```
+
+### Audit Trail
+
+Each trial produces artifacts in `data/extractions/{nct_id}/`:
+- `raw.json` — cached API response
+- `agent_a.json` — Agent A extraction with `_source_address` metadata
+- `agent_b.json` — Agent B extraction with `_source_address` metadata
+- `reconciliation.json` — full row-by-row comparison, disagreement classification, resolution history
+- `review.csv` — human review file (when disagreements exist)
+
+Reconciliation statuses: `FULLY_AGREED`, `PENDING_REVIEW`, `HUMAN_ADJUDICATED`
+
+### How the Agents Differ
+
+Both agents share the same raw JSON and produce the same 29-field schema. They differ in interpretation:
+
+| Logic | Agent A (keyword-first) | Agent B (schema-aware) |
+|---|---|---|
+| Assay classification | Keyword priority in title | Title keywords first, then unitOfMeasure/paramType |
+| Outcome selection | Title contains IMMUNO_KEYWORDS | Also checks paramType for "Geometric Mean" |
+| Vaccine mapping | Keyword match on group title/description | Maps via armsInterventionsModule, falls back to keywords |
+| Timeframe parsing | Pattern-matching heuristics | Structured regex with unit conversion table |
+| Schedule inference | Age-list heuristic | Parses designModule + armsInterventionsModule |
+
+### Disagreement Types
+
+- **Numeric**: Direct-from-API fields differ → indicates a parsing bug (critical)
+- **Categorical**: Interpreted fields differ (assay, vaccine, schedule, etc.) → human review
+- **Selection**: One agent included a row the other excluded → human review
+- **Metadata**: Study-level fields differ → indicates extraction bug
+
+## Legacy Extraction Script
+
+The automated extraction script is at `scripts/extract_trial.py`. It handles fetching, parsing, validation, and appending in one step. **Prefer `dual_extract.py` for new extractions.**
 
 ### Usage
 
@@ -167,5 +271,5 @@ Existing names in the dataset (use these patterns for consistency):
 - **Trials without immunogenicity outcomes**: Some completed vaccine trials only post safety data, not OPA/IgG. The script lists available outcomes and skips.
 - **Vaccine name matching**: The `vaccine_lookup.csv` uses keyword matching. For new/unusual vaccines, the script falls back to using the group title as the vaccine name and the sponsor as the manufacturer. Review the output and update the lookup table if needed.
 - **Dose number / schedule inference**: The script defaults to "1 dose adult" for adult trials. Multi-dose or pediatric schedules may need manual adjustment after extraction.
-- **Multi-site country fields**: The `location_country_code` and `location_continent` fields store comma-separated values for all sites (matching the existing dataset format).
+- **Multi-site country fields**: The `location_country_code` and `location_continent` fields store comma-separated values for unique countries across all sites.
 - **Time frame estimation**: The script converts timeframe text (e.g., "1 month after vaccination") to numeric weeks. Unusual timeframe descriptions may not parse correctly.
