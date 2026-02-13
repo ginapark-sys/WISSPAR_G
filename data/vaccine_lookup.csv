@@ -24,6 +24,10 @@ VAX-24,PCV24 (Vaxcyte VAX-24),Vaxcyte,24
 IVT PCV-25,PCV25 (Inventprise),Inventprise,25
 PCV25,PCV25 (Inventprise),Inventprise,25
 25-valent,PCV25 (Inventprise),Inventprise,25
+PNEUBEVAX,PCV14 (PneuBevax),Biological E,14
+BE-PCV-14,PCV14 (PneuBevax),Biological E,14
+PCV14,PCV14 (PneuBevax),Biological E,14
+14-valent,PCV14 (PneuBevax),Biological E,14
 Pneumovax,PPV23,MSD,23
 PPSV23,PPV23,MSD,23
 PPV23,PPV23,MSD,23
