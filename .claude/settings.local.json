@@ -4,7 +4,8 @@
       "WebFetch(domain:clinicaltrials.gov)",
       "Bash(curl:*)",
       "Bash(python:*)",
-      "Bash(pip install:*)"
+      "Bash(pip install:*)",
+      "Bash(python3 -c \":*)"
     ]
   }
 }

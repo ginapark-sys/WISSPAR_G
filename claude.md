@@ -248,12 +248,41 @@ For trials with unusual structure, the step-by-step manual process is:
 | `outcome_overview_dose_number` | Number of doses (e.g., "1" for single-dose adult trials) |
 | `outcome_overview_schedule` | Pattern: "1 dose adult", "3+1 child", "2 dose adult", etc. |
 | `outcome_overview_dose_description` | Pattern: "1m post dose 1 adult", "12m post boost child", etc. |
-| `outcome_overview_time_frame_weeks` | Numeric weeks (e.g., "4" for 1 month) |
+| `outcome_overview_time_frame_weeks` | **Always integer weeks** — never days. Use `0` only for pre-vaccination baseline measurements (dose_description = "pre-boost child"). See conversion rules below. |
 | `outcome_overview_vaccine` | Standardized name (see naming conventions below) |
 | `outcome_overview_manufacturer` | Company name |
 | `clinical_trial_phase` | "Phase 1", "Phase 2", "Phase 3", "Phase 1/Phase 2", etc. |
 | `location_country_code` | ISO 2-letter code (e.g., "US", "GM") |
 | `location_continent` | "North America", "Africa", "Europe", etc. |
+
+### `outcome_overview_time_frame_weeks` — Conversion Rules
+
+This field **must always be an integer in weeks**. It is never in days. Converting common API timeframe strings:
+
+| Timeframe text (examples) | Weeks |
+|---|---|
+| "Day 30", "30 days after dose", "Day 30 after vaccination" | `4` |
+| "1 month after vaccination", "One month postvaccination" | `4` |
+| "4 weeks after vaccination", "4 weeks (28 days)" | `4` |
+| "Week 8", "2 months after vaccination" | `8` |
+| "Week 12", "3 months after vaccination" | `12` |
+| "Week 26", "6 months after vaccination" | `26` |
+| "Week 30" | `30` |
+| "Month 7" (as a post-dose timepoint) | `28` |
+| "12 Months Post-Booster", "1 year post vaccination" | `52` |
+| "2 years post vaccination" | `104` |
+| Pre-vaccination / baseline measurements ("pre-boost") | `0` |
+
+**Parsing rules:**
+- Extract explicit `Week N` or `N weeks` → N
+- Extract `Day N` or `N days` → `round(N / 7)` — strip parenthetical content (e.g. "(Vax 1=Day 1)") before matching to avoid false positives
+- Extract `N months` → N × 4, but **use calendar conventions for common values**: 6 months → 26, 12 months → 52, 24 months → 104
+- For word numbers: "one month" → 4, "twelve months" → 52
+- For week ranges like "24–26 weeks" → use the upper bound (26)
+- For multi-timepoint strings (containing "and"/"or" with multiple time references), use `outcome_overview_dose_description` to determine the individual row's timepoint ("1m post…" → 4, "12m post…" → 52, "pre-boost…" → 0)
+- **Never leave this field as 0 for post-vaccination rows.** If you cannot determine the correct value, investigate further rather than defaulting to 0.
+
+**Common mistake to avoid:** Do not store days in this field (e.g., do not write `30` to mean "Day 30" — the correct value is `4` weeks).
 
 ## Vaccine Naming Conventions
 
