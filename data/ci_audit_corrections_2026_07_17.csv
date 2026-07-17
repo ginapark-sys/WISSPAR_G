@@ -1,0 +1,90 @@
+line,nct_id,serotype,vaccine,dose_description,field,current_value,corrected_value,bug_pattern,notes
+626,NCT03313037,8,PCV20,1m post dose 1 adult,value,807,740,A,"Value did not match source at all; also fixing lo/hi from 0/0"
+626,NCT03313037,8,PCV20,1m post dose 1 adult,lower_limit,0,598.0,A,
+626,NCT03313037,8,PCV20,1m post dose 1 adult,upper_limit,0,915.7,A,
+627,NCT03313037,10A,PCV13,1m post dose 1 adult,value,1011,988,A,
+627,NCT03313037,10A,PCV13,1m post dose 1 adult,lower_limit,0,731.2,A,
+627,NCT03313037,10A,PCV13,1m post dose 1 adult,upper_limit,0,1335.5,A,
+628,NCT03313037,12F,PCV20,1m post dose 1 adult,value,7301,6571,A,
+628,NCT03313037,12F,PCV20,1m post dose 1 adult,lower_limit,0,5022.2,A,
+628,NCT03313037,12F,PCV20,1m post dose 1 adult,upper_limit,0,8597.3,A,
+629,NCT03313037,12F,PCV13,1m post dose 1 adult,value,4454,4290,A,
+629,NCT03313037,12F,PCV13,1m post dose 1 adult,lower_limit,0,3190.8,A,
+629,NCT03313037,12F,PCV13,1m post dose 1 adult,upper_limit,0,5769.1,A,
+630,NCT03313037,10A,PCV20,1m post dose 1 adult,value,2717,2604,A,
+630,NCT03313037,10A,PCV20,1m post dose 1 adult,lower_limit,0,2096.4,A,
+630,NCT03313037,10A,PCV20,1m post dose 1 adult,upper_limit,0,3234.4,A,
+631,NCT03313037,15B,PCV20,1m post dose 1 adult,value,2075,1889,A,
+631,NCT03313037,15B,PCV20,1m post dose 1 adult,lower_limit,0,1434.7,A,
+631,NCT03313037,15B,PCV20,1m post dose 1 adult,upper_limit,0,2488.3,A,
+632,NCT03313037,11A,PCV20,1m post dose 1 adult,value,3401,3210,A,
+632,NCT03313037,11A,PCV20,1m post dose 1 adult,lower_limit,0,2613.2,A,
+632,NCT03313037,11A,PCV20,1m post dose 1 adult,upper_limit,0,3943.8,A,
+633,NCT03313037,22F,PCV20,1m post dose 1 adult,value,7301,6286,A,"lo/hi were serotype 8's bounds"
+633,NCT03313037,22F,PCV20,1m post dose 1 adult,lower_limit,598,5025.0,A,
+633,NCT03313037,22F,PCV20,1m post dose 1 adult,upper_limit,915.7,7863.2,A,
+634,NCT03313037,8,PCV13,1m post dose 1 adult,value,1266,1150,A,
+634,NCT03313037,8,PCV13,1m post dose 1 adult,lower_limit,0,944.4,A,
+634,NCT03313037,8,PCV13,1m post dose 1 adult,upper_limit,0,1401.6,A,
+635,NCT03313037,33F,PCV13,1m post dose 1 adult,value,4454,3940,A,"lo/hi were serotype 8's bounds"
+635,NCT03313037,33F,PCV13,1m post dose 1 adult,lower_limit,944.4,3136.2,A,
+635,NCT03313037,33F,PCV13,1m post dose 1 adult,upper_limit,1401.6,4950.9,A,
+636,NCT03313037,11A,PCV13,1m post dose 1 adult,value,2972,3007,A,
+636,NCT03313037,11A,PCV13,1m post dose 1 adult,lower_limit,0,2443.0,A,
+636,NCT03313037,11A,PCV13,1m post dose 1 adult,upper_limit,0,3700.3,A,
+637,NCT03313037,33F,PCV20,1m post dose 1 adult,value,6380,5584,A,"lo/hi were serotype 10A's bounds"
+637,NCT03313037,33F,PCV20,1m post dose 1 adult,lower_limit,2096.4,4374.1,A,
+637,NCT03313037,33F,PCV20,1m post dose 1 adult,upper_limit,3234.4,7128.0,A,
+638,NCT03313037,15B,PCV13,1m post dose 1 adult,value,807,720,A,
+638,NCT03313037,15B,PCV13,1m post dose 1 adult,lower_limit,0,530.8,A,
+638,NCT03313037,15B,PCV13,1m post dose 1 adult,upper_limit,0,975.9,A,
+639,NCT03313037,22F,PCV13,1m post dose 1 adult,value,3721,3513,A,"lo/hi were serotype 10A's bounds"
+639,NCT03313037,22F,PCV13,1m post dose 1 adult,lower_limit,731.2,2824.8,A,
+639,NCT03313037,22F,PCV13,1m post dose 1 adult,upper_limit,1335.5,4367.7,A,
+3419,NCT04875533,33F,PCV20,1m post dose 1 adult,lower_limit,1422,5751,A,"value already correct (6675); lo/hi were serotype 10A's bounds"
+3419,NCT04875533,33F,PCV20,1m post dose 1 adult,upper_limit,1939,7748,A,
+3420,NCT04875533,8,PCV20,1m post dose 1 adult,lower_limit,0,490,A,"value already correct (561)"
+3420,NCT04875533,8,PCV20,1m post dose 1 adult,upper_limit,0,642,A,
+3421,NCT04875533,22F,PCV20,1m post dose 1 adult,lower_limit,490,2345,A,"value already correct (2818); lo/hi were serotype 8's bounds"
+3421,NCT04875533,22F,PCV20,1m post dose 1 adult,upper_limit,642,3388,A,
+3422,NCT04875533,15B,PCV20,1m post dose 1 adult,lower_limit,0,1039,A,"value already correct (1265)"
+3422,NCT04875533,15B,PCV20,1m post dose 1 adult,upper_limit,0,1539,A,
+3423,NCT04875533,11A,PCV20,1m post dose 1 adult,lower_limit,0,2834,A,"value already correct (3331)"
+3423,NCT04875533,11A,PCV20,1m post dose 1 adult,upper_limit,0,3913,A,
+3424,NCT04875533,12F,PCV13+PPV23,1m post dose 1 adult,lower_limit,0,1766,A,"value already correct (2104)"
+3424,NCT04875533,12F,PCV13+PPV23,1m post dose 1 adult,upper_limit,0,2507,A,
+3425,NCT04875533,12F,PCV20,1m post dose 1 adult,lower_limit,0,2976,A,"value already correct (3543)"
+3425,NCT04875533,12F,PCV20,1m post dose 1 adult,upper_limit,0,4217,A,
+3426,NCT04875533,10A,PCV13+PPV23,1m post dose 1 adult,lower_limit,0,667,A,"value already correct (777)"
+3426,NCT04875533,10A,PCV13+PPV23,1m post dose 1 adult,upper_limit,0,906,A,
+3427,NCT04875533,33F,PCV13+PPV23,1m post dose 1 adult,lower_limit,0,5046,A,"value already correct (5853)"
+3427,NCT04875533,33F,PCV13+PPV23,1m post dose 1 adult,upper_limit,0,6788,A,
+3428,NCT04875533,10A,PCV20,1m post dose 1 adult,lower_limit,0,1422,A,"value already correct (1661)"
+3428,NCT04875533,10A,PCV20,1m post dose 1 adult,upper_limit,0,1939,A,
+3429,NCT04875533,8,PCV13+PPV23,1m post dose 1 adult,lower_limit,0,850,A,"value already correct (971)"
+3429,NCT04875533,8,PCV13+PPV23,1m post dose 1 adult,upper_limit,0,1110,A,
+3430,NCT04875533,11A,PCV13+PPV23,1m post dose 1 adult,lower_limit,0,1644,A,"value already correct (1933)"
+3430,NCT04875533,11A,PCV13+PPV23,1m post dose 1 adult,upper_limit,0,2274,A,
+3431,NCT04875533,22F,PCV13+PPV23,1m post dose 1 adult,lower_limit,0,1445,A,"value already correct (1737)"
+3431,NCT04875533,22F,PCV13+PPV23,1m post dose 1 adult,upper_limit,0,2089,A,
+3432,NCT04875533,15B,PCV13+PPV23,1m post dose 1 adult,lower_limit,0,487,A,"value already correct (593)"
+3432,NCT04875533,15B,PCV13+PPV23,1m post dose 1 adult,upper_limit,0,723,A,
+1507,NCT00373958,5,PCV7,1m post boost child,lower_limit,4.91,0.47,B,"value already correct (0.55); lo/hi were serotype 4's bounds"
+1507,NCT00373958,5,PCV7,1m post boost child,upper_limit,6.13,0.64,B,
+1616,NCT00366899,5,PCV7,1m post boost child,lower_limit,6.41,0.49,B,"value already correct (0.56); lo/hi were serotype 4's bounds"
+1616,NCT00366899,5,PCV7,1m post boost child,upper_limit,7.83,0.64,B,
+1619,NCT00366899,4,PCV7,1m post boost child,lower_limit,0.03,6.41,B,"value already correct (7.08); lo/hi were serotype 1's bounds"
+1619,NCT00366899,4,PCV7,1m post boost child,upper_limit,0.04,7.83,B,
+3892,NCT00345358,6A,PCV10 (Synflorix),1m post boost child,lower_limit,0.14,0.42,C,"7-11M group; value already correct (0.55); lo/hi were the pre-boost row's bounds"
+3892,NCT00345358,6A,PCV10 (Synflorix),1m post boost child,upper_limit,0.23,0.73,C,
+3893,NCT00345358,6A,PCV10 (Synflorix),1m post boost child,lower_limit,0.12,0.40,C,"<6M group; value already correct (0.52); lo/hi were the pre-boost row's bounds"
+3893,NCT00345358,6A,PCV10 (Synflorix),1m post boost child,upper_limit,0.19,0.68,C,
+3896,NCT00345358,6A,PCV10 (Synflorix),1m post boost child,lower_limit,69.2,168.7,C,"7-11M group OPA; value already correct (302.2); lo/hi were the pre-boost row's bounds"
+3896,NCT00345358,6A,PCV10 (Synflorix),1m post boost child,upper_limit,283.3,541.5,C,
+3901,NCT00345358,6A,PCV10 (Synflorix),1m post boost child,lower_limit,15.9,96.9,C,"<6M group OPA; value already correct (188.6); lo/hi were the pre-boost row's bounds"
+3901,NCT00345358,6A,PCV10 (Synflorix),1m post boost child,upper_limit,63.9,367,C,
+3724,NCT00345358,19A,PCV10 (Synflorix),1m post primary child,upper_limit,082,0.82,typo,"Source ClinicalTrials.gov table itself shows '082' (missing decimal) for >=24M group; value 0.65 and lower 0.53 support 0.82, not 82"
+4786,NCT01616459,6A,PCV10 (Synflorix),1m post boost child,lower_limit,0.18,0.76,C,"value already correct (0.91); lo/hi were the pre-boost (M10) row's bounds"
+4786,NCT01616459,6A,PCV10 (Synflorix),1m post boost child,upper_limit,0.26,1.09,C,
+4787,NCT01616459,6A,PCV13 (Pfizer),1m post boost child,lower_limit,0.56,8.41,C,"value already correct (9.31); lo/hi were the pre-boost (M10) row's bounds"
+4787,NCT01616459,6A,PCV13 (Pfizer),1m post boost child,upper_limit,0.73,10.30,C,
