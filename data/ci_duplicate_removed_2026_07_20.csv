@@ -1,0 +1,17 @@
+original_line,nct_id,serotype,vaccine,dose_description,value,lower,upper,action,note
+2804,NCT03620162,5,PCV15,1m post boost child,2.9,2.50,3.35,kept,"Retained copy of an exact duplicate pair (identical values across all 29 fields)."
+2875,NCT03620162,5,PCV15,1m post boost child,2.9,2.50,3.35,deleted,"Removed per user decision 2026-07-20 - byte-for-byte duplicate of line 2804, root cause not investigated (likely a re-run of the same extraction step appending instead of overwriting)."
+828,NCT01646398,4,PCV13,1m post dose 1 adult,1016,,,kept,Retained copy of an exact duplicate pair found in the 2026-07-20 full-row scan.
+832,NCT01646398,4,PCV13,1m post dose 1 adult,1016,,,deleted,Byte-for-byte duplicate of line 828; root cause not investigated.
+829,NCT01646398,5,PCV13,1m post dose 1 adult,44,,,kept,Retained copy of an exact duplicate pair found in the 2026-07-20 full-row scan.
+831,NCT01646398,5,PCV13,1m post dose 1 adult,44,,,deleted,Byte-for-byte duplicate of line 829; root cause not investigated.
+830,NCT01646398,3,PCV13,1m post dose 1 adult,103,,,kept,Retained copy of an exact duplicate pair found in the 2026-07-20 full-row scan.
+833,NCT01646398,3,PCV13,1m post dose 1 adult,103,,,deleted,Byte-for-byte duplicate of line 830; root cause not investigated.
+2794,NCT03620162,18C,PCV15,1m post boost child,2.649999,,,kept,Retained copy of an exact duplicate pair found in the 2026-07-20 full-row scan.
+2851,NCT03620162,18C,PCV15,1m post boost child,2.649999,,,deleted,Byte-for-byte duplicate of line 2794; root cause not investigated.
+2796,NCT03620162,4,PCV15,1m post boost child,1.350000,,,kept,Retained copy of an exact duplicate pair found in the 2026-07-20 full-row scan.
+2829,NCT03620162,4,PCV15,1m post boost child,1.350000,,,deleted,Byte-for-byte duplicate of line 2796; root cause not investigated.
+2799,NCT03620162,19A,PCV15,1m post boost child,4.660000,,,kept,Retained copy of an exact duplicate pair found in the 2026-07-20 full-row scan.
+2857,NCT03620162,19A,PCV15,1m post boost child,4.660000,,,deleted,Byte-for-byte duplicate of line 2799; root cause not investigated.
+2811,NCT03620162,1,PCV15,1m post boost child,1.459999,,,kept,Retained copy of an exact duplicate pair found in the 2026-07-20 full-row scan.
+2850,NCT03620162,1,PCV15,1m post boost child,1.459999,,,deleted,Byte-for-byte duplicate of line 2811; root cause not investigated.

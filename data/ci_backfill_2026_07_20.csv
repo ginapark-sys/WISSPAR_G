@@ -1,0 +1,752 @@
+line,nct_id,serotype,assay,value,old_lower,old_upper,new_lower,new_upper,source_class_title,source_group_title,match_type
+1486,NCT00373958,1,GMC,0.0299999999,0,0,0.03,0.03,"Additional Serotypes - Serotype 1 (n=235,223)",7vPnC,unique
+1487,NCT00373958,3,GMC,0.0700000000,0,0,0.05,0.08,"Additional Serotypes - Serotype 3 (n=232,223)",7vPnC,unique
+1488,NCT00373958,1,GMC,5.0599999999,0,0,4.43,5.80,"Additional Serotypes - Serotype 1 (n=235,223)",13vPnC,unique
+1490,NCT00373958,4,GMC,3.7299999999,0,0,3.28,4.24,"Common Serotypes - Serotype 4 (n=235,223)",13vPnC,unique
+1491,NCT00373958,3,GMC,0.9399999999,0,0,0.83,1.05,"Additional Serotypes - Serotype 3 (n=232,223)",13vPnC,unique
+1492,NCT00373958,6A,GMC,1.8700000000,0,0,1.60,2.19,"Additional Serotypes - Serotype 6A (n=235,223)",7vPnC,unique
+1495,NCT00373958,6A,GMC,8.1999999999,0,0,7.30,9.20,"Additional Serotypes - Serotype 6A (n=235,223)",13vPnC,unique
+1497,NCT00373958,7F,GMC,0.0500000000,0,0,0.04,0.05,"Additional Serotypes - Serotype 7F (n=235,223)",7vPnC,unique
+1498,NCT00373958,19A,GMC,8.5500000000,0,0,7.64,9.56,"Additional Serotypes - Serotype 19A (n=236,223)",13vPnC,unique
+1501,NCT00373958,19A,GMC,3.5400000000,0,0,3.15,3.98,"Additional Serotypes - Serotype 19A (n=236,223)",7vPnC,unique
+1506,NCT00373958,7F,GMC,5.6699999999,0,0,5.01,6.42,"Additional Serotypes - Serotype 7F (n=235,223)",13vPnC,unique
+1510,NCT00373958,4,GMC,5.4900000000,0,0,4.91,6.13,"Common Serotypes - Serotype 4 (n=235,223)",7vPnC,unique
+1546,NCT00368966,19A,GMC,3.0699999999,0,0,2.79,3.37,"Additional Serotype - Serotype 19A (n=267,267,226)",13vPnC After Infant Series Dose 3,unique
+1550,NCT00368966,5,GMC,1.9299999999,0,0,1.74,2.13,"Additional Serotype - Serotype 5 (n=261,261,234)",13vPnC After Infant Series Dose 3,unique
+1551,NCT00368966,6A,GMC,7.0700000000,0,0,6.35,7.87,"Additional Serotype - Serotype 6A (n=269,269,235)",13vPnC After the Toddler Dose,unique
+1552,NCT00368966,3,GMC,1.0700000000,0,0,0.95,1.20,"Additional Serotype - Serotype 3 (n=267,267,243)",13vPnC After the Toddler Dose,unique
+1555,NCT00368966,6A,GMC,1.1000000000,0,0,0.97,1.25,"Additional Serotype - Serotype 6A (n=269,269,235)",13vPnC After Infant Series Dose 2,unique
+1556,NCT00368966,1,GMC,3.0400000000,0,0,2.73,3.38,"Additional Serotype - Serotype 1 (n=268,268,235)",13vPnC After Infant Series Dose 3,unique
+1558,NCT00368966,5,GMC,0.9899999999,0,0,0.90,1.10,"Additional Serotype - Serotype 5 (n=261,261,234)",13vPnC After Infant Series Dose 2,unique
+1559,NCT00368966,19A,GMC,2.3599999999,0,0,2.10,2.66,"Additional Serotype - Serotype 19A (n=267,267,226)",13vPnC After Infant Series Dose 2,unique
+1561,NCT00368966,7F,GMC,5.7800000000,0,0,5.13,6.53,"Additional Serotype - Serotype 7F (n=268,268,242)",13vPnC After the Toddler Dose,unique
+1562,NCT00368966,7F,GMC,4.0300000000,0,0,3.70,4.40,"Additional Serotype - Serotype 7F (n=268,268,242)",13vPnC After Infant Series Dose 3,unique
+1566,NCT00368966,6A,GMC,3.1600000000,0,0,2.82,3.53,"Additional Serotype - Serotype 6A (n=269,269,235)",13vPnC After Infant Series Dose 3,unique
+1570,NCT00368966,19A,GMC,11.640000000,0,0,10.43,13.00,"Additional Serotype - Serotype 19A (n=267,267,226)",13vPnC After the Toddler Dose,unique
+1572,NCT00368966,1,GMC,1.8999999999,0,0,1.70,2.13,"Additional Serotype - Serotype 1 (n=268,268,235)",13vPnC After Infant Series Dose 2,unique
+1576,NCT00368966,3,GMC,0.7900000000,0,0,0.72,0.87,"Additional Serotype - Serotype 3 (n=267,267,243)",13vPnC After Infant Series Dose 2,unique
+1577,NCT00368966,1,GMC,4.7900000000,0,0,4.21,5.45,"Additional Serotype - Serotype 1 (n=268,268,235)",13vPnC After the Toddler Dose,unique
+1578,NCT00368966,3,GMC,0.9699999999,0,0,0.87,1.08,"Additional Serotype - Serotype 3 (n=267,267,243)",13vPnC After Infant Series Dose 3,unique
+1580,NCT00368966,7F,GMC,1.8500000000,0,0,1.69,2.02,"Additional Serotype - Serotype 7F (n=268,268,242)",13vPnC After Infant Series Dose 2,unique
+1583,NCT00368966,5,GMC,3.8999999999,0,0,3.53,4.31,"Additional Serotype - Serotype 5 (n=261,261,234)",13vPnC After the Toddler Dose,unique
+1670,NCT00366678,3,GMC,1.25,0,0,1.13,1.37,Additional Serotypes - Serotype 3 (n=242),13vPnC,unique
+1673,NCT00366678,19A,GMC,2.1000000000,0,0,1.87,2.35,Additional Serotypes - Serotype 19A (n=244),13vPnC,unique
+1675,NCT00366678,5,GMC,0.9300000000,0,0,0.82,1.06,Additional Serotypes - Serotype 5 (n=243),13vPnC,unique
+1676,NCT00366678,6A,GMC,0.9399999999,0,0,0.82,1.06,Additional Serotypes - Serotype 6A (n=243),13vPnC,unique
+1679,NCT00366678,1,GMC,1.2099999999,0,0,1.07,1.38,Additional Serotypes - Serotype 1 (n=240),13vPnC,unique
+1682,NCT00366678,7F,GMC,1.9299999999,0,0,1.73,2.15,Additional Serotypes - Serotype 7F (n=238),13vPnC,unique
+1683,NCT00366678,5,GMC,0.8000000000,0,0,0.7,0.9,"Additional-Serotype 5 (n=236,236,128,124,115,113)",13vPnC/13vPnC Before Toddler Dose,unique
+1684,NCT00366678,5,GMC,1.1000000000,0,0,1.0,1.3,"Additional-Serotype 5 (n=236,236,128,124,115,113)",7vPnC/13vPnC After Toddler Dose,unique
+1685,NCT00366678,6A,GMC,6.0999999999,0,0,5.5,6.8,"Additional-Serotype 6A (n=238,235,122,124,116,109)",13vPnC/13vPnC After Toddler Dose,unique
+1686,NCT00366678,18C,GMC,2.2999999999,0,0,2.1,2.5,"Common - Serotype 18C (n=239,230,131,125,118,113)",13vPnC/13vPnC After Toddler Dose,unique
+1687,NCT00366678,5,GMC,3.2999999999,0,0,3.0,3.7,"Additional-Serotype 5 (n=236,236,128,124,115,113)",13vPnC/13vPnC After Toddler Dose,unique
+1688,NCT00366678,9V,GMC,0.4000000000,0,0,0.4,0.5,"Common - Serotype 9V (n=239,232,131,124,118,109)",13vPnC/13vPnC Before Toddler Dose,ambiguous_group_consistent_bounds
+1689,NCT00366678,7F,GMC,4.5,0,0,4.1,5.0,"Additional-Serotype 7F (n=239,234,131,124,117,110)",13vPnC/13vPnC After Toddler Dose,unique
+1690,NCT00366678,19A,GMC,0.9000000000,0,0,0.7,1.1,"Additional-Serotype 19A(n=237,233,131,127,117,112)",7vPnC/13vPnC Before Toddler Dose,unique
+1691,NCT00366678,18C,GMC,2.3999999999,0,0,2.0,2.9,"Common - Serotype 18C (n=239,230,131,125,118,113)",7vPnC/13vPnC After Toddler Dose,unique
+1692,NCT00366678,18C,GMC,2.7999999999,0,0,2.5,3.2,"Common - Serotype 18C (n=239,230,131,125,118,113)",7vPnC/7vPnC After Toddler Dose,unique
+1693,NCT00366678,9V,GMC,0.5,0,0,0.5,0.6,"Common - Serotype 9V (n=239,232,131,124,118,109)",7vPnC/7vPnC Before Toddler Dose,unique
+1694,NCT00366678,4,GMC,4.7999999999,0,0,4.2,5.6,"Common - Serotype 4 (n=239,233,131,126,118,111)",7vPnC/7vPnC After Toddler Dose,unique
+1695,NCT00366678,1,GMC,0.4000000000,0,0,0.4,0.5,"Additional-Serotype 1 (n=239,233,128,119,116,112)",13vPnC/13vPnC Before Toddler Dose,unique
+1696,NCT00366678,3,GMC,0.1000000000,0,0,0.1,0.1,"Additional-Serotype 3 (n=232,233,128,124,115,113)",7vPnC/7vPnC Before Toddler Dose,ambiguous_group_consistent_bounds
+1697,NCT00366678,23F,GMC,3.1000000000,0,0,2.6,3.7,"Common - Serotype 23F (n=237,232,130,123,118,111)",7vPnC/13vPnC After Toddler Dose,unique
+1698,NCT00366678,1,GMC,0,0,0,0.0,0.0,"Additional-Serotype 1 (n=239,233,128,119,116,112)",7vPnC/7vPnC Before Toddler Dose,ambiguous_group_consistent_bounds
+1699,NCT00366678,6A,GMC,2.6000000000,0,0,2.0,3.4,"Additional-Serotype 6A (n=238,235,122,124,116,109)",7vPnC/13vPnC After Toddler Dose,unique
+1700,NCT00366678,4,GMC,4,0,0,3.4,4.8,"Common - Serotype 4 (n=239,233,131,126,118,111)",7vPnC/13vPnC After Toddler Dose,unique
+1701,NCT00366678,6A,GMC,1.5,0,0,1.3,1.9,"Additional-Serotype 6A (n=238,235,122,124,116,109)",7vPnC/7vPnC After Toddler Dose,unique
+1702,NCT00366678,6A,GMC,0.9000000000,0,0,0.8,1.0,"Additional-Serotype 6A (n=238,235,122,124,116,109)",13vPnC/13vPnC Before Toddler Dose,unique
+1703,NCT00366678,3,GMC,1.3000000000,0,0,1.1,1.5,"Additional-Serotype 3 (n=232,233,128,124,115,113)",7vPnC/13vPnC After Toddler Dose,unique
+1704,NCT00366678,19F,GMC,5.2000000000,0,0,4.5,6.0,"Common - Serotype 19F (n=239,233,130,126,118,112)",13vPnC/13vPnC After Toddler Dose,unique
+1705,NCT00366678,5,GMC,0.5,0,0,0.4,0.6,"Additional-Serotype 5 (n=236,236,128,124,115,113)",7vPnC/7vPnC After Toddler Dose,unique
+1706,NCT00366678,23F,GMC,3,0,0,2.7,3.4,"Common - Serotype 23F (n=237,232,130,123,118,111)",13vPnC/13vPnC After Toddler Dose,unique
+1708,NCT00366678,4,GMC,0.5,0,0,0.4,0.5,"Common - Serotype 4 (n=239,233,131,126,118,111)",7vPnC/7vPnC Before Toddler Dose,ambiguous_group_consistent_bounds
+1709,NCT00366678,14,GMC,9.5,0,0,8.5,10.6,"Common - Serotype 14 (n=238,233,131,125,118,111)",13vPnC/13vPnC After Toddler Dose,unique
+1710,NCT00366678,19A,GMC,1.5,0,0,1.3,1.7,"Additional-Serotype 19A(n=237,233,131,127,117,112)",13vPnC/13vPnC Before Toddler Dose,unique
+1712,NCT00366678,4,GMC,4.2000000000,0,0,3.8,4.7,"Common - Serotype 4 (n=239,233,131,126,118,111)",13vPnC/13vPnC After Toddler Dose,unique
+1713,NCT00366678,14,GMC,7.7999999999,0,0,6.6,9.3,"Common - Serotype 14 (n=238,233,131,125,118,111)",7vPnC/13vPnC After Toddler Dose,unique
+1714,NCT00366678,14,GMC,10.800000000,0,0,9.4,12.5,"Common - Serotype 14 (n=238,233,131,125,118,111)",7vPnC/7vPnC After Toddler Dose,unique
+1715,NCT00366678,23F,GMC,3.7000000000,0,0,3.1,4.3,"Common - Serotype 23F (n=237,232,130,123,118,111)",7vPnC/7vPnC After Toddler Dose,unique
+1716,NCT00366678,5,GMC,0.4000000000,0,0,0.4,0.5,"Additional-Serotype 5 (n=236,236,128,124,115,113)",7vPnC/7vPnC Before Toddler Dose,ambiguous_group_consistent_bounds
+1717,NCT00366678,6B,GMC,1,0,0,0.9,1.1,"Common - Serotype 6B (n=235,233,131,126,115,108)",13vPnC/13vPnC Before Toddler Dose,unique
+1718,NCT00366678,19F,GMC,3.7000000000,0,0,3.0,4.6,"Common - Serotype 19F (n=239,233,130,126,118,112)",7vPnC/13vPnC After Toddler Dose,unique
+1719,NCT00366678,3,GMC,0.1000000000,0,0,0.1,0.1,"Additional-Serotype 3 (n=232,233,128,124,115,113)",7vPnC/7vPnC Before Toddler Dose,ambiguous_group_consistent_bounds
+1720,NCT00366678,6B,GMC,10.300000000,0,0,8.2,13.0,"Common - Serotype 6B (n=235,233,131,126,115,108)",7vPnC/13vPnC After Toddler Dose,unique
+1721,NCT00366678,14,GMC,2,0,0,1.8,2.3,"Common - Serotype 14 (n=238,233,131,125,118,111)",13vPnC/13vPnC Before Toddler Dose,unique
+1722,NCT00366678,9V,GMC,0.4000000000,0,0,0.4,0.5,"Common - Serotype 9V (n=239,232,131,124,118,109)",13vPnC/13vPnC Before Toddler Dose,ambiguous_group_consistent_bounds
+1724,NCT00366678,1,GMC,4.0999999999,0,0,3.7,4.5,"Additional-Serotype 1 (n=239,233,128,119,116,112)",13vPnC/13vPnC After Toddler Dose,unique
+1727,NCT00366678,4,GMC,0.5,0,0,0.4,0.5,"Common - Serotype 4 (n=239,233,131,126,118,111)",7vPnC/7vPnC Before Toddler Dose,ambiguous_group_consistent_bounds
+1728,NCT00366678,5,GMC,0.4000000000,0,0,0.4,0.5,"Additional-Serotype 5 (n=236,236,128,124,115,113)",7vPnC/7vPnC Before Toddler Dose,ambiguous_group_consistent_bounds
+1730,NCT00366678,6B,GMC,9,0,0,8.0,10.1,"Common - Serotype 6B (n=235,233,131,126,115,108)",13vPnC/13vPnC After Toddler Dose,unique
+1733,NCT00366678,19A,GMC,9.5,0,0,8.5,10.6,"Additional-Serotype 19A(n=237,233,131,127,117,112)",13vPnC/13vPnC After Toddler Dose,unique
+1735,NCT00366678,3,GMC,0.2000000000,0,0,0.2,0.2,"Additional-Serotype 3 (n=232,233,128,124,115,113)",13vPnC/13vPnC Before Toddler Dose,unique
+1736,NCT00366678,7F,GMC,3.7000000000,0,0,3.2,4.3,"Additional-Serotype 7F (n=239,234,131,124,117,110)",7vPnC/13vPnC After Toddler Dose,unique
+1737,NCT00366678,1,GMC,0,0,0,0.0,0.0,"Additional-Serotype 1 (n=239,233,128,119,116,112)",7vPnC/7vPnC Before Toddler Dose,ambiguous_group_consistent_bounds
+1738,NCT00366678,1,GMC,0,0,0,0.0,0.0,"Additional-Serotype 1 (n=239,233,128,119,116,112)",7vPnC/7vPnC Before Toddler Dose,ambiguous_group_consistent_bounds
+1739,NCT00366678,3,GMC,1,0,0,0.9,1.1,"Additional-Serotype 3 (n=232,233,128,124,115,113)",13vPnC/13vPnC After Toddler Dose,unique
+1740,NCT00366678,9V,GMC,3.2000000000,0,0,2.8,3.7,"Common - Serotype 9V (n=239,232,131,124,118,109)",7vPnC/7vPnC After Toddler Dose,unique
+1741,NCT00366678,19A,GMC,4,0,0,3.5,4.5,"Additional-Serotype 19A(n=237,233,131,127,117,112)",7vPnC/7vPnC After Toddler Dose,unique
+1742,NCT00366678,6B,GMC,0.9000000000,0,0,0.8,1.1,"Common - Serotype 6B (n=235,233,131,126,115,108)",7vPnC/13vPnC Before Toddler Dose,unique
+1744,NCT00366678,6B,GMC,1.1000000000,0,0,0.9,1.3,"Common - Serotype 6B (n=235,233,131,126,115,108)",7vPnC/7vPnC Before Toddler Dose,unique
+1748,NCT00366678,3,GMC,0.1000000000,0,0,0.1,0.1,"Additional-Serotype 3 (n=232,233,128,124,115,113)",7vPnC/7vPnC Before Toddler Dose,ambiguous_group_consistent_bounds
+1749,NCT00366678,7F,GMC,0.8000000000,0,0,0.7,0.9,"Additional-Serotype 7F (n=239,234,131,124,117,110)",13vPnC/13vPnC Before Toddler Dose,unique
+1752,NCT00366678,19F,GMC,4.0999999999,0,0,3.4,5.0,"Common - Serotype 19F (n=239,233,130,126,118,112)",7vPnC/7vPnC After Toddler Dose,unique
+1753,NCT00366678,6B,GMC,9.5999999999,0,0,8.3,11.2,"Common - Serotype 6B (n=235,233,131,126,115,108)",7vPnC/7vPnC After Toddler Dose,unique
+1754,NCT00366678,4,GMC,0.2999999999,0,0,0.3,0.3,"Common - Serotype 4 (n=239,233,131,126,118,111)",13vPnC/13vPnC Before Toddler Dose,unique
+1756,NCT00366678,19F,GMC,0.5999999999,0,0,0.5,0.7,"Common - Serotype 19F (n=239,233,130,126,118,112)",7vPnC/13vPnC Before Toddler Dose,unique
+1757,NCT00366678,19A,GMC,1.1000000000,0,0,0.9,1.3,"Additional-Serotype 19A(n=237,233,131,127,117,112)",7vPnC/7vPnC Before Toddler Dose,unique
+1759,NCT00366678,1,GMC,1.8000000000,0,0,1.5,2.2,"Additional-Serotype 1 (n=239,233,128,119,116,112)",7vPnC/13vPnC After Toddler Dose,unique
+1760,NCT00366678,19A,GMC,5.2999999999,0,0,4.6,6.2,"Additional-Serotype 19A(n=237,233,131,127,117,112)",7vPnC/13vPnC After Toddler Dose,unique
+1826,NCT00205803,6A,GMC,2.3599999999,0,0,1.89,2.94,"Additional Serotypes - Serotype 6A (n=93,106)",13vPnC,unique
+1827,NCT00205803,7F,GMC,1.8500000000,0,0,1.62,2.11,"Additional Serotypes - Serotype 7F (n=94,105)",13vPnC,unique
+1828,NCT00205803,1,GMC,0.0599999999,0,0,0.05,0.09,"Additional Serotypes - Serotype 1 (n=94,108)",7vPnC,unique
+1829,NCT00205803,9V,GMC,1.5200000000,0,0,1.29,1.78,"Common Serotypes - Serotype 9V (n=94,108)",13vPnC,unique
+1830,NCT00205803,23F,GMC,1.8100000000,0,0,1.51,2.19,"Common Serotypes - Serotype 23F (n=94,108)",7vPnC,unique
+1831,NCT00205803,6A,GMC,0.25,0,0,0.20,0.30,"Additional Serotypes - Serotype 6A (n=93,106)",7vPnC,unique
+1832,NCT00205803,4,GMC,2.3999999999,0,0,2.01,2.87,"Common Serotypes - Serotype 4 (n=94,107)",7vPnC,unique
+1833,NCT00205803,5,GMC,2.4100000000,0,0,2.07,2.80,"Additional Serotypes - Serotype 5 (n=93,107)",13vPnC,unique
+1834,NCT00205803,6B,GMC,2.8599999999,0,0,2.09,3.91,"Common Serotypes - Serotype 6B (n=94,107)",7vPnC,unique
+1835,NCT00205803,6B,GMC,2.7400000000,0,0,2.02,3.71,"Common Serotypes - Serotype 6B (n=94,107)",13vPnC,unique
+1836,NCT00205803,3,GMC,1.3999999999,0,0,1.20,1.62,"Additional Serotypes - Serotype 3 (n=94,107)",13vPnC,unique
+1837,NCT00205803,9V,GMC,1.7800000000,0,0,1.55,2.05,"Common Serotypes - Serotype 9V (n=94,108)",7vPnC,unique
+1838,NCT00205803,14,GMC,5.1900000000,0,0,4.13,6.52,"Common Serotypes - Serotype 14 (n=94,107)",7vPnC,unique
+1839,NCT00205803,18C,GMC,1.5300000000,0,0,1.30,1.80,"Common Serotypes - Serotype 18C (n=94,106)",13vPnC,unique
+1840,NCT00205803,19A,GMC,1.9299999999,0,0,1.64,2.27,"Additional Serotypes - Serotype 19A (n=94,107)",13vPnC,unique
+1841,NCT00205803,14,GMC,4.2400000000,0,0,3.44,5.23,"Common Serotypes - Serotype 14 (n=94,107)",13vPnC,unique
+1842,NCT00205803,19A,GMC,1.1200000000,0,0,0.96,1.32,"Additional Serotypes - Serotype 19A (n=94,107)",7vPnC,unique
+1843,NCT00205803,19F,GMC,2.5800000000,0,0,2.17,3.08,"Common Serotypes - Serotype 19F (n=94,106)",7vPnC,unique
+1844,NCT00205803,18C,GMC,2.4599999999,0,0,2.08,2.91,"Common Serotypes - Serotype 18C (n=94,106)",7vPnC,unique
+1845,NCT00205803,7F,GMC,0.0700000000,0,0,0.06,0.08,"Additional Serotypes - Serotype 7F (n=94,105)",7vPnC,unique
+1846,NCT00205803,5,GMC,0.2800000000,0,0,0.22,0.34,"Additional Serotypes - Serotype 5 (n=93,107)",7vPnC,unique
+1847,NCT00205803,19F,GMC,2.2099999999,0,0,1.87,2.61,"Common Serotypes - Serotype 19F (n=94,106)",13vPnC,unique
+1849,NCT00205803,23F,GMC,1.3899999999,0,0,1.15,1.67,"Common Serotypes - Serotype 23F (n=94,108)",13vPnC,unique
+1850,NCT00205803,1,GMC,2.5699999999,0,0,2.14,3.08,"Additional Serotypes - Serotype 1 (n=94,108)",13vPnC,unique
+1851,NCT00205803,4,GMC,1.8100000000,0,0,1.54,2.13,"Common Serotypes - Serotype 4 (n=94,107)",13vPnC,unique
+1853,NCT00205803,19A,GMC,0.8499999999,0,0,0.67,1.09,"Additional Serotypes-Serotype19A (n=83,100,78,93)",13vPnC Before Toddler Dose,unique
+1854,NCT00205803,7F,GMC,0.0400000000,0,0,0.03,0.05,"Additional Serotypes-Serotype 7F (n=83,91,78,85)",7vPnC Before Toddler Dose,unique
+1855,NCT00205803,6B,GMC,0.8399999999,0,0,0.69,1.03,"Common Serotypes-Serotype 6B (n=82,98,78,93)",13vPnC Before Toddler Dose,unique
+1857,NCT00205803,19F,GMC,3.9700000000,0,0,3.26,4.85,"Common Serotypes-Serotype 19F (n=82,100,78,93)",7vPnC After Toddler Dose,unique
+1858,NCT00205803,6B,GMC,11.029999999,0,0,8.78,13.86,"Common Serotypes-Serotype 6B (n=82,98,78,93)",13vPnC After Toddler Dose,unique
+1859,NCT00205803,7F,GMC,2.6699999999,0,0,2.26,3.16,"Additional Serotypes-Serotype 7F (n=83,91,78,85)",13vPnC After Toddler Dose,unique
+1860,NCT00205803,14,GMC,7.6799999999,0,0,6.08,9.70,"Common Serotypes-Serotype 14 (n=83,100,78,93)",13vPnC After Toddler Dose,unique
+1861,NCT00205803,6A,GMC,1.6799999999,0,0,1.27,2.21,"Additional Serotypes-Serotype 6A (n=82,96,78,92)",7vPnC After Toddler Dose,unique
+1862,NCT00205803,23F,GMC,0.3800000000,0,0,0.31,0.47,"Common Serotypes-Serotype 23F (n=83,100,78,93)",7vPnC Before Toddler Dose,unique
+1863,NCT00205803,1,GMC,0.0400000000,0,0,0.03,0.04,"Additional Serotypes-Serotype 1 (n=83,90,78,91)",7vPnC Before Toddler Dose,unique
+1864,NCT00205803,23F,GMC,0.2899999999,0,0,0.24,0.36,"Common Serotypes-Serotype 23F (n=83,100,78,93)",13vPnC Before Toddler Dose,unique
+1865,NCT00205803,18C,GMC,0.25,0,0,0.22,0.30,"Common Serotypes-Serotype 18C (n=83,100,78,94)",13vPnC Before Toddler Dose,unique
+1866,NCT00205803,19F,GMC,0.8100000000,0,0,0.66,1.00,"Common Serotypes-Serotype 19F (n=82,100,78,93)",13vPnC Before Toddler Dose,unique
+1867,NCT00205803,1,GMC,0.0299999999,0,0,0.03,0.04,"Additional Serotypes-Serotype 1 (n=83,90,78,91)",7vPnC After Toddler Dose,unique
+1868,NCT00205803,14,GMC,10.240000000,0,0,8.23,12.74,"Common Serotypes-Serotype 14 (n=83,100,78,93)",7vPnC After Toddler Dose,unique
+1869,NCT00205803,14,GMC,2,0,0,1.66,2.41,"Common Serotypes-Serotype 14 (n=83,100,78,93)",7vPnC Before Toddler Dose,unique
+1870,NCT00205803,4,GMC,4.0899999999,0,0,3.34,5.00,"Common Serotypes-Serotype 4 (n=83,100,78,94)",7vPnC After Toddler Dose,unique
+1871,NCT00205803,19F,GMC,6.3399999999,0,0,5.06,7.94,"Common Serotypes-Serotype 19F (n=82,100,78,93)",13vPnC After Toddler Dose,unique
+1872,NCT00205803,23F,GMC,4.7900000000,0,0,3.86,5.94,"Common Serotypes-Serotype 23F (n=83,100,78,93)",7vPnC After Toddler Dose,unique
+1873,NCT00205803,4,GMC,0.4799999999,0,0,0.41,0.56,"Common Serotypes-Serotype 4 (n=83,100,78,94)",7vPnC Before Toddler Dose,unique
+1874,NCT00205803,6B,GMC,0.9499999999,0,0,0.77,1.18,"Common Serotypes-Serotype 6B (n=82,98,78,93)",7vPnC Before Toddler Dose,unique
+1875,NCT00205803,7F,GMC,0.5799999999,0,0,0.50,0.67,"Additional Serotypes-Serotype 7F (n=83,91,78,85)",13vPnC Before Toddler Dose,unique
+1876,NCT00205803,6A,GMC,0.2700000000,0,0,0.22,0.33,"Additional Serotypes-Serotype 6A (n=82,96,78,92)",7vPnC Before Toddler Dose,unique
+1877,NCT00205803,19A,GMC,5.5999999999,0,0,4.60,6.83,"Additional Serotypes-Serotype19A (n=83,100,78,93)",13vPnC After Toddler Dose,unique
+1878,NCT00205803,5,GMC,0.5600000000,0,0,0.45,0.70,"Additional Serotypes-Serotype 5 (n=83,92,78,78)",7vPnC After Toddler Dose,unique
+1879,NCT00205803,14,GMC,1.5900000000,0,0,1.27,2.00,"Common Serotypes-Serotype 14 (n=83,100,78,93)",13vPnC Before Toddler Dose,unique
+1880,NCT00205803,5,GMC,0.4000000000,0,0,0.31,0.50,"Additional Serotypes-Serotype 5 (n=83,92,78,78)",7vPnC Before Toddler Dose,unique
+1881,NCT00205803,4,GMC,2.8599999999,0,0,2.31,3.55,"Common Serotypes-Serotype 4 (n=83,100,78,94)",13vPnC After Toddler Dose,unique
+1882,NCT00205803,3,GMC,0.2700000000,0,0,0.23,0.32,"Additional Serotypes-Serotype 3 (n=83,98,78,92)",13vPnC Before Toddler Dose,unique
+1884,NCT00205803,9V,GMC,2.75,0,0,2.37,3.18,"Common Serotypes-Serotype 9V (n=83,100,78,94)",7vPnC After Toddler Dose,unique
+1885,NCT00205803,9V,GMC,2.5499999999,0,0,2.15,3.02,"Common Serotypes-Serotype 9V (n=83,100,78,94)",13vPnC After Toddler Dose,unique
+1886,NCT00205803,18C,GMC,0.4000000000,0,0,0.34,0.46,"Common Serotypes-Serotype 18C (n=83,100,78,94)",7vPnC Before Toddler Dose,unique
+1887,NCT00205803,6B,GMC,11.849999999,0,0,9.63,14.56,"Common Serotypes-Serotype 6B (n=82,98,78,93)",7vPnC After Toddler Dose,unique
+1888,NCT00205803,5,GMC,3.9199999999,0,0,3.27,4.69,"Additional Serotypes-Serotype 5 (n=83,92,78,78)",13vPnC After Toddler Dose,unique
+1889,NCT00205803,23F,GMC,3.3599999999,0,0,2.70,4.18,"Common Serotypes-Serotype 23F (n=83,100,78,93)",13vPnC After Toddler Dose,unique
+1890,NCT00205803,6A,GMC,0.8100000000,0,0,0.68,0.96,"Additional Serotypes-Serotype 6A (n=82,96,78,92)",13vPnC Before Toddler Dose,unique
+1891,NCT00205803,3,GMC,1.1100000000,0,0,0.94,1.33,"Additional Serotypes-Serotype 3 (n=83,98,78,92)",13vPnC After Toddler Dose,unique
+1892,NCT00205803,3,GMC,0.1000000000,0,0,0.08,0.12,"Additional Serotypes-Serotype 3 (n=83,98,78,92)",7vPnC After Toddler Dose,unique
+1893,NCT00205803,18C,GMC,4.0800000000,0,0,3.42,4.87,"Common Serotypes-Serotype 18C (n=83,100,78,94)",7vPnC After Toddler Dose,unique
+1894,NCT00205803,1,GMC,3.4399999999,0,0,2.79,4.23,"Additional Serotypes-Serotype 1 (n=83,90,78,91)",13vPnC After Toddler Dose,unique
+1895,NCT00205803,19A,GMC,2.8199999999,0,0,2.32,3.41,"Additional Serotypes-Serotype19A (n=83,100,78,93)",7vPnC After Toddler Dose,unique
+1896,NCT00205803,1,GMC,0.6800000000,0,0,0.56,0.82,"Additional Serotypes-Serotype 1 (n=83,90,78,91)",13vPnC Before Toddler Dose,unique
+1897,NCT00205803,7F,GMC,0.0500000000,0,0,0.04,0.06,"Additional Serotypes-Serotype 7F (n=83,91,78,85)",7vPnC After Toddler Dose,unique
+1898,NCT00205803,18C,GMC,2.5699999999,0,0,2.08,3.18,"Common Serotypes-Serotype 18C (n=83,100,78,94)",13vPnC After Toddler Dose,unique
+1899,NCT00205803,19F,GMC,0.5999999999,0,0,0.49,0.72,"Common Serotypes-Serotype 19F (n=82,100,78,93)",7vPnC Before Toddler Dose,unique
+1900,NCT00205803,19A,GMC,0.6400000000,0,0,0.52,0.79,"Additional Serotypes-Serotype19A (n=83,100,78,93)",7vPnC Before Toddler Dose,unique
+1901,NCT00205803,4,GMC,0.3300000000,0,0,0.28,0.40,"Common Serotypes-Serotype 4 (n=83,100,78,94)",13vPnC Before Toddler Dose,unique
+1902,NCT00205803,6A,GMC,8.0600000000,0,0,6.60,9.85,"Additional Serotypes-Serotype 6A (n=82,96,78,92)",13vPnC After Toddler Dose,unique
+1903,NCT00205803,5,GMC,1.0100000000,0,0,0.87,1.18,"Additional Serotypes-Serotype 5 (n=83,92,78,78)",13vPnC Before Toddler Dose,unique
+1904,NCT00205803,19A,OPA,36.619999999,0,0,21.09,63.59,"Additional Serotypes - Serotype 19A (n=71,72)",7vPnC,unique
+1905,NCT00205803,6A,OPA,599.89999999,0,0,375.83,957.54,"Additional Serotypes - Serotype 6A (n=73,70)",7vPnC,unique
+1906,NCT00205803,6A,OPA,2147.5799999,0,0,1630.73,2828.23,"Additional Serotypes - Serotype 6A (n=73,70)",13vPnC,unique
+1907,NCT00205803,19A,OPA,802.24000000,0,0,633.92,1015.24,"Additional Serotypes - Serotype 19A (n=71,72)",13vPnC,unique
+2002,NCT00384059,14,GMC,1.3400000000,0,0,1.09,1.66,"Common Serotypes - Serotype 14 (n=107,87,87)",13vPnC Before Toddler Dose,unique
+2003,NCT00384059,6B,GMC,0.7700000000,0,0,0.60,0.99,"Common Serotypes - Serotype 6B (n=107,85,85)",13vPnC Before Toddler Dose,unique
+2004,NCT00384059,1,GMC,5.5999999999,0,0,4.60,6.82,"Additional Serotypes - Serotype 1 (n=107,85,85)",13vPnC After Toddler Dose,unique
+2005,NCT00384059,3,GMC,0.1400000000,0,0,0.10,0.18,"Additional Serotypes - Serotype 3 (n=107,85,85)",13vPnC Before Toddler Dose,unique
+2006,NCT00384059,6A,GMC,0.8599999999,0,0,0.68,1.07,"Additional Serotypes - Serotype 6A (n=106,83,83)",13vPnC After Infant Series Dose 2,unique
+2007,NCT00384059,9V,GMC,0.8699999999,0,0,0.72,1.05,"Common Serotypes - Serotype 9V (n=104,88,88)",13vPnC After Infant Series Dose 2,unique
+2008,NCT00384059,14,GMC,1.8300000000,0,0,1.47,2.27,"Common Serotypes - Serotype 14 (n=107,87,87)",13vPnC After Infant Series Dose 2,unique
+2009,NCT00384059,1,GMC,0.3900000000,0,0,0.33,0.46,"Additional Serotypes - Serotype 1 (n=107,85,85)",13vPnC Before Toddler Dose,unique
+2010,NCT00384059,19A,GMC,1.0100000000,0,0,0.77,1.32,"Additional Serotypes - Serotype 19A (n=110,89,89)",13vPnC Before Toddler Dose,unique
+2011,NCT00384059,7F,GMC,4.0599999999,0,0,3.42,4.83,"Additional Serotypes - Serotype 7F (n=107,87,87)",13vPnC After Toddler Dose,unique
+2012,NCT00384059,6B,GMC,0.2600000000,0,0,0.21,0.33,"Common Serotypes - Serotype 6B (n=107,85,85)",13vPnC After Infant Series Dose 2,unique
+2013,NCT00384059,4,GMC,3.5200000000,0,0,2.91,4.26,"Common Serotypes - Serotype 4 (n=107,87,87)",13vPnC After Toddler Dose,unique
+2014,NCT00384059,3,GMC,0.6300000000,0,0,0.56,0.71,"Additional Serotypes - Serotype 3 (n=107,85,85)",13vPnC After Infant Series Dose 2,unique
+2015,NCT00384059,23F,GMC,3.1299999999,0,0,2.59,3.78,"Common Serotypes - Serotype 23F (n=111,88,88)",13vPnC After Toddler Dose,unique
+2016,NCT00384059,19A,GMC,1.8999999999,0,0,1.54,2.34,"Additional Serotypes - Serotype 19A (n=110,89,89)",13vPnC After Infant Series Dose 2,unique
+2017,NCT00384059,9V,GMC,2.4599999999,0,0,2.03,2.99,"Common Serotypes - Serotype 9V (n=104,88,88)",13vPnC After Toddler Dose,unique
+2018,NCT00384059,19F,GMC,7.25,0,0,5.65,9.31,"Common Serotypes - Serotype 19F (n=109,90,90)",13vPnC After Toddler Dose,unique
+2019,NCT00384059,19F,GMC,2.3799999999,0,0,1.88,3.01,"Common Serotypes - Serotype 19F (n=109,90,90)",13vPnC After Infant Series Dose 2,unique
+2020,NCT00384059,18C,GMC,2.1400000000,0,0,1.82,2.53,"Common Serotypes - Serotype 18C (n=111,91,91)",13vPnC After Toddler Dose,unique
+2021,NCT00384059,23F,GMC,0.2399999999,0,0,0.19,0.32,"Common Serotypes - Serotype 23F (n=111,88,88)",13vPnC Before Toddler Dose,unique
+2022,NCT00384059,23F,GMC,0.5300000000,0,0,0.42,0.67,"Common Serotypes - Serotype 23F (n=111,88,88)",13vPnC After Infant Series Dose 2,unique
+2023,NCT00384059,6B,GMC,7.6699999999,0,0,5.88,10.01,"Common Serotypes - Serotype 6B (n=107,85,85)",13vPnC After Toddler Dose,unique
+2024,NCT00384059,4,GMC,1.3700000000,0,0,1.16,1.62,"Common Serotypes - Serotype 4 (n=107,87,87)",13vPnC After Infant Series Dose 2,unique
+2025,NCT00384059,6A,GMC,0.8100000000,0,0,0.64,1.03,"Additional Serotypes - Serotype 6A (n=106,83,83)",13vPnC Before Toddler Dose,unique
+2026,NCT00384059,7F,GMC,0.5600000000,0,0,0.48,0.66,"Additional Serotypes - Serotype 7F (n=107,87,87)",13vPnC Before Toddler Dose,unique
+2027,NCT00384059,3,GMC,0.9799999999,0,0,0.78,1.22,"Additional Serotypes - Serotype 3 (n=107,85,85)",13vPnC After Toddler Dose,unique
+2028,NCT00384059,1,GMC,1.6899999999,0,0,1.41,2.04,"Additional Serotypes - Serotype 1 (n=107,85,85)",13vPnC After Infant Series Dose 2,unique
+2029,NCT00384059,5,GMC,0.5899999999,0,0,0.49,0.72,"Additional Serotypes - Serotype 5 (n=103,86,86)",13vPnC Before Toddler Dose,unique
+2030,NCT00384059,6A,GMC,6.3099999999,0,0,5.06,7.87,"Additional Serotypes - Serotype 6A (n=106,83,83)",13vPnC After Toddler Dose,unique
+2031,NCT00384059,7F,GMC,2.1400000000,0,0,1.75,2.62,"Additional Serotypes - Serotype 7F (n=107,87,87)",13vPnC After Infant Series Dose 2,unique
+2032,NCT00384059,19F,GMC,0.5999999999,0,0,0.46,0.79,"Common Serotypes - Serotype 19F (n=109,90,90)",13vPnC Before Toddler Dose,unique
+2033,NCT00384059,5,GMC,3.6800000000,0,0,3.04,4.45,"Additional Serotypes - Serotype 5 (n=103,86,86)",13vPnC After Toddler Dose,unique
+2034,NCT00384059,18C,GMC,1.3700000000,0,0,1.14,1.64,"Common Serotypes - Serotype 18C (n=111,91,91)",13vPnC After Infant Series Dose 2,unique
+2035,NCT00384059,14,GMC,11.320000000,0,0,9.27,13.83,"Common Serotypes - Serotype 14 (n=107,87,87)",13vPnC After Toddler Dose,unique
+2036,NCT00384059,5,GMC,0.9499999999,0,0,0.79,1.14,"Additional Serotypes - Serotype 5 (n=103,86,86)",13vPnC After Infant Series Dose 2,unique
+2037,NCT00384059,9V,GMC,0.2899999999,0,0,0.24,0.36,"Common Serotypes - Serotype 9V (n=104,88,88)",13vPnC Before Toddler Dose,unique
+2038,NCT00384059,18C,GMC,0.2000000000,0,0,0.17,0.23,"Common Serotypes - Serotype 18C (n=111,91,91)",13vPnC Before Toddler Dose,unique
+2039,NCT00384059,4,GMC,0.2099999999,0,0,0.17,0.24,"Common Serotypes - Serotype 4 (n=107,87,87)",13vPnC Before Toddler Dose,unique
+2040,NCT00384059,19A,GMC,11.330000000,0,0,9.29,13.83,"Additional Serotypes - Serotype 19A (n=110,89,89)",13vPnC After Toddler Dose,unique
+2042,NCT00370396,14,OPA,2134.1999999,0,0,1689.1,2696.6,Opsono-14 Month 1,Prevenar-Prevenar Group,unique
+2043,NCT00370396,1,OPA,4.2999999999,0,0,3.9,4.7,Opsono-1 Month 1,Prevenar-Prevenar Group,unique
+2044,NCT00370396,4,OPA,2812.5999999,0,0,2282.5,3465.9,Opsono-4 Month 1,Prevenar-Prevenar Group,unique
+2045,NCT00370396,23F,OPA,13900.700000,0,0,10177.4,18986.1,Opsono-23F Month 1,Prevenar-Prevenar Group,unique
+2046,NCT00370396,6B,OPA,3459.5999999,0,0,2535.7,4720.3,Opsono-6B Month 1,Prevenar-Prevenar Group,unique
+2047,NCT00370396,19F,OPA,287.80000000,0,0,190.8,434.3,Opsono-19F Month 1,Prevenar-Prevenar Group,unique
+2048,NCT00370396,9V,OPA,5357.3999999,0,0,4212.5,6813.6,Opsono-9V Month 1,Prevenar-Prevenar Group,unique
+2049,NCT00370396,7F,OPA,25.199999999,0,0,13.1,48.7,Opsono-7F Month 1,Prevenar-Prevenar Group,unique
+2050,NCT00370396,18C,OPA,968.70000000,0,0,724.1,1295.8,Opsono-18C Month 1,Prevenar-Prevenar Group,unique
+2051,NCT00370396,19F,OPA,7.2999999999,0,0,5.5,9.6,Opsono-19F PRE,Prevenar-Synflorix Group,unique
+2052,NCT00370396,18C,OPA,8.5,0,0,6.6,10.9,Opsono-18C PRE,Prevenar-Synflorix Group,unique
+2053,NCT00370396,9V,OPA,305.10000000,0,0,248.7,374.4,Opsono-9V PRE,Prevenar-Synflorix Group,unique
+2054,NCT00370396,7F,OPA,25.300000000,0,0,15.4,41.6,Opsono-7F PRE,Prevenar-Synflorix Group,unique
+2055,NCT00370396,6B,OPA,36.700000000,0,0,23.3,57.7,Opsono-6B PRE,Prevenar-Synflorix Group,unique
+2056,NCT00370396,14,OPA,391.10000000,0,0,303.1,504.6,Opsono-14 PRE,Prevenar-Synflorix Group,unique
+2057,NCT00370396,4,OPA,37.799999999,0,0,24.8,57.7,Opsono-4 PRE,Prevenar-Synflorix Group,unique
+2059,NCT00370396,1,OPA,4.9000000000,0,0,4.2,5.8,Opsono-1 PRE,Prevenar-Synflorix Group,unique
+2060,NCT00370396,23F,OPA,532.89999999,0,0,344.4,824.7,Opsono-23F PRE,Prevenar-Synflorix Group,unique
+2061,NCT00370396,18C,OPA,10.400000000,0,0,7.4,14.7,Opsono-18C PRE,Prevenar-Prevenar Group,unique
+2062,NCT00370396,5,OPA,4.4000000000,0,0,3.9,4.9,Opsono-5 PRE,Prevenar-Prevenar Group,unique
+2063,NCT00370396,19F,OPA,5.9000000000,0,0,4.5,7.8,Opsono-19F PRE,Prevenar-Prevenar Group,unique
+2064,NCT00370396,4,OPA,24.5,0,0,15.4,38.8,Opsono-4 PRE,Prevenar-Prevenar Group,unique
+2065,NCT00370396,1,OPA,5,0,0,4.1,6,Opsono-1 PRE,Prevenar-Prevenar Group,unique
+2066,NCT00370396,23F,OPA,205.80000000,0,0,110.1,384.6,Opsono-23F PRE,Prevenar-Prevenar Group,unique
+2067,NCT00370396,6B,OPA,51.399999999,0,0,27.1,97.5,Opsono-6B PRE,Prevenar-Prevenar Group,unique
+2068,NCT00370396,14,OPA,201.59999999,0,0,129.4,314.2,Opsono-14 PRE,Prevenar-Prevenar Group,unique
+2069,NCT00370396,9V,OPA,305.5,0,0,227.1,411,Opsono-9V PRE,Prevenar-Prevenar Group,unique
+2070,NCT00370396,7F,OPA,34.799999999,0,0,17.5,69.3,Opsono-7F PRE,Prevenar-Prevenar Group,unique
+2071,NCT00370396,5,OPA,8.1999999999,0,0,7.2,9.4,Opsono-5 PRE,Synflorix-Synflorix Group,unique
+2072,NCT00370396,1,OPA,6.0999999999,0,0,5.4,6.9,Opsono-1 PRE,Synflorix-Synflorix Group,unique
+2073,NCT00370396,14,OPA,188.09999999,0,0,149.9,235.9,Opsono-14 PRE,Synflorix-Synflorix Group,unique
+2074,NCT00370396,18C,OPA,8.6999999999,0,0,7.4,10.3,Opsono-18C PRE,Synflorix-Synflorix Group,unique
+2075,NCT00370396,19F,OPA,10.5,0,0,8.9,12.3,Opsono-19F PRE,Synflorix-Synflorix Group,unique
+2076,NCT00370396,4,OPA,20.300000000,0,0,16.2,25.5,Opsono-4 PRE,Synflorix-Synflorix Group,unique
+2077,NCT00370396,6B,OPA,60.299999999,0,0,44.6,81.7,Opsono-6B PRE,Synflorix-Synflorix Group,unique
+2078,NCT00370396,9V,OPA,296.89999999,0,0,259.3,339.9,Opsono-9V PRE,Synflorix-Synflorix Group,unique
+2079,NCT00370396,7F,OPA,377.69999999,0,0,279.8,509.9,Opsono-7F PRE,Synflorix-Synflorix Group,unique
+2080,NCT00370396,23F,OPA,171.5,0,0,126.3,232.8,Opsono-23F PRE,Synflorix-Synflorix Group,unique
+2081,NCT00370396,18C,GMC,0.3699999999,0,0,0.32,0.43,Anti-18C PRE,Prevenar-Synflorix Group,unique
+2082,NCT00370396,19F,GMC,0.3099999999,0,0,0.24,0.41,Anti-19F PRE,Prevenar-Synflorix Group,unique
+2084,NCT00370396,23F,GMC,0.4000000000,0,0,0.3,0.5,Anti-23F PRE,Prevenar-Synflorix Group,unique
+2085,NCT00370396,6B,GMC,0.2600000000,0,0,0.2,0.33,Anti-6B PRE,Prevenar-Synflorix Group,unique
+2086,NCT00370396,4,GMC,0.3499999999,0,0,0.3,0.41,Anti-4 PRE,Prevenar-Synflorix Group,unique
+2087,NCT00370396,9V,GMC,0.7800000000,0,0,0.68,0.89,Anti-9V PRE,Prevenar-Synflorix Group,unique
+2088,NCT00370396,1,GMC,0.0299999999,0,0,0.03,0.04,Anti-1 PRE,Prevenar-Prevenar Group,ambiguous_group_consistent_bounds
+2090,NCT00370396,14,GMC,1.6899999999,0,0,1.4,2.03,Anti-14 PRE,Prevenar-Synflorix Group,unique
+2091,NCT00370396,19F,GMC,5.0599999999,0,0,4.24,6.04,Anti-19F Month 1,Prevenar-Synflorix Group,unique
+2092,NCT00370396,9V,GMC,1.9399999999,0,0,1.73,2.19,Anti-9V Month 1,Prevenar-Synflorix Group,unique
+2093,NCT00370396,23F,GMC,2.4199999999,0,0,1.99,2.95,Anti-23F Month 1,Prevenar-Synflorix Group,unique
+2094,NCT00370396,1,GMC,0.6700000000,0,0,0.56,0.8,Anti-1 Month 1,Prevenar-Synflorix Group,unique
+2095,NCT00370396,4,GMC,4.4699999999,0,0,3.85,5.19,Anti-4 Month 1,Prevenar-Synflorix Group,unique
+2096,NCT00370396,7F,GMC,1.8300000000,0,0,1.49,2.24,Anti-7F Month 1,Prevenar-Synflorix Group,unique
+2097,NCT00370396,5,GMC,0.7399999999,0,0,0.6,0.9,Anti-5 Month 1,Prevenar-Synflorix Group,unique
+2098,NCT00370396,18C,GMC,4.9800000000,0,0,4.17,5.93,Anti-18C Month 1,Prevenar-Synflorix Group,unique
+2099,NCT00370396,14,GMC,4.7599999999,0,0,4.12,5.49,Anti-14 Month 1,Prevenar-Synflorix Group,unique
+2100,NCT00370396,6B,GMC,1.7399999999,0,0,1.48,2.05,Anti-6B Month 1,Prevenar-Synflorix Group,unique
+2101,NCT00370396,1,GMC,1.5300000000,0,0,1.4,1.68,Anti-1 Month 1,Synflorix-Synflorix Group,unique
+2102,NCT00370396,19F,GMC,6.0499999999,0,0,5.46,6.71,Anti-19F Month 1,Synflorix-Synflorix Group,unique
+2103,NCT00370396,7F,GMC,3.5,0,0,3.25,3.76,Anti-7F Month 1,Synflorix-Synflorix Group,unique
+2104,NCT00370396,6B,GMC,1.9399999999,0,0,1.74,2.17,Anti-6B Month 1,Synflorix-Synflorix Group,unique
+2105,NCT00370396,5,GMC,2.2000000000,0,0,2,2.42,Anti-5 Month 1,Synflorix-Synflorix Group,unique
+2106,NCT00370396,18C,GMC,5.0099999999,0,0,4.6,5.46,Anti-18C Month 1,Synflorix-Synflorix Group,unique
+2107,NCT00370396,4,GMC,3.3500000000,0,0,3.06,3.67,Anti-4 Month 1,Synflorix-Synflorix Group,unique
+2108,NCT00370396,14,GMC,5.5599999999,0,0,5.01,6.18,Anti-14 Month 1,Synflorix-Synflorix Group,unique
+2109,NCT00370396,9V,GMC,3.25,0,0,2.99,3.53,Anti-9V Month 1,Synflorix-Synflorix Group,unique
+2110,NCT00370396,23F,GMC,2.3799999999,0,0,2.13,2.66,Anti-23F Month 1,Synflorix-Synflorix Group,unique
+2111,NCT00370396,19F,GMC,3.3500000000,0,0,2.83,3.97,Anti-19F Month 1,Prevenar-Prevenar Group,unique
+2112,NCT00370396,6B,GMC,3.5299999999,0,0,2.83,4.41,Anti-6B Month 1,Prevenar-Prevenar Group,unique
+2113,NCT00370396,23F,GMC,6.6699999999,0,0,5.38,8.26,Anti-23F Month 1,Prevenar-Prevenar Group,unique
+2114,NCT00370396,7F,GMC,0.0400000000,0,0,0.03,0.05,Anti-7F Month 1,Prevenar-Prevenar Group,unique
+2116,NCT00370396,14,GMC,9.2899999999,0,0,7.85,10.99,Anti-14 Month 1,Prevenar-Prevenar Group,unique
+2117,NCT00370396,18C,GMC,5.2099999999,0,0,4.44,6.11,Anti-18C Month 1,Prevenar-Prevenar Group,unique
+2118,NCT00370396,4,GMC,4.4000000000,0,0,3.75,5.15,Anti-4 Month 1,Prevenar-Prevenar Group,unique
+2119,NCT00370396,1,GMC,0.0400000000,0,0,0.03,0.05,Anti-1 Month 1,Prevenar-Prevenar Group,ambiguous_group_consistent_bounds
+2120,NCT00370396,9V,GMC,6.0899999999,0,0,5.19,7.15,Anti-9V Month 1,Prevenar-Prevenar Group,unique
+2122,NCT00370396,6B,OPA,981.20000000,0,0,830.7,1159.1,Opsono-6B Month 1,Synflorix-Synflorix Group,unique
+2123,NCT00370396,19F,OPA,624.29999999,0,0,509.7,764.7,Opsono-19F Month 1,Synflorix-Synflorix Group,unique
+2124,NCT00370396,9V,OPA,2343.5,0,0,2097.1,2618.7,Opsono-9V Month 1,Synflorix-Synflorix Group,unique
+2125,NCT00370396,7F,OPA,4330.3000000,0,0,3836,4888.3,Opsono-7F Month 1,Synflorix-Synflorix Group,unique
+2126,NCT00370396,14,OPA,2085.9000000,0,0,1868,2329.1,Opsono-14 Month 1,Synflorix-Synflorix Group,unique
+2127,NCT00370396,4,OPA,1856.2999999,0,0,1666.1,2068,Opsono-4 Month 1,Synflorix-Synflorix Group,unique
+2128,NCT00370396,1,OPA,192.19999999,0,0,157.5,234.6,Opsono-1 Month 1,Synflorix-Synflorix Group,unique
+2129,NCT00370396,5,OPA,144.09999999,0,0,122.1,170,Opsono-5 Month 1,Synflorix-Synflorix Group,unique
+2130,NCT00370396,18C,OPA,810.29999999,0,0,712.4,921.7,Opsono-18C Month 1,Synflorix-Synflorix Group,unique
+2131,NCT00370396,18C,OPA,610.70000000,0,0,480.3,776.4,Opsono-18C Month 1,Prevenar-Synflorix Group,unique
+2132,NCT00370396,19F,OPA,530.10000000,0,0,393,715.2,Opsono-19F Month 1,Prevenar-Synflorix Group,unique
+2133,NCT00370396,14,OPA,977.79999999,0,0,828.9,1153.5,Opsono-14 Month 1,Prevenar-Synflorix Group,unique
+2134,NCT00370396,6B,OPA,640.20000000,0,0,480.7,852.7,Opsono-6B Month 1,Prevenar-Synflorix Group,unique
+2136,NCT00370396,4,OPA,1528.9000000,0,0,1286.9,1817,Opsono-4 Month 1,Prevenar-Synflorix Group,unique
+2137,NCT00370396,5,OPA,9.5,0,0,7.5,11.9,Opsono-5 Month 1,Prevenar-Synflorix Group,unique
+2138,NCT00370396,9V,OPA,886.79999999,0,0,747.7,1051.8,Opsono-9V Month 1,Prevenar-Synflorix Group,unique
+2139,NCT00370396,1,OPA,8.3000000000,0,0,6.7,10.4,Opsono-1 Month 1,Prevenar-Synflorix Group,unique
+2140,NCT00370396,7F,OPA,2397.1999999,0,0,1929.2,2978.7,Opsono-7F Month 1,Prevenar-Synflorix Group,unique
+2141,NCT00370396,9V,GMC,0.6199999999,0,0,0.51,0.76,Anti-9V PRE,Prevenar-Prevenar Group,unique
+2142,NCT00370396,23F,GMC,0.2399999999,0,0,0.19,0.31,Anti-23F PRE,Prevenar-Prevenar Group,unique
+2143,NCT00370396,6B,GMC,0.1400000000,0,0,0.11,0.19,Anti-6B PRE,Prevenar-Prevenar Group,unique
+2144,NCT00370396,5,GMC,0.0400000000,0,0,0.04,0.05,Anti-5 PRE,Prevenar-Prevenar Group,unique
+2145,NCT00370396,14,GMC,1.0600000000,0,0,0.82,1.38,Anti-14 PRE,Prevenar-Prevenar Group,unique
+2147,NCT00370396,19F,GMC,0.2300000000,0,0,0.17,0.31,Anti-19F PRE,Prevenar-Prevenar Group,unique
+2148,NCT00370396,4,GMC,0.2999999999,0,0,0.25,0.37,Anti-4 PRE,Prevenar-Prevenar Group,unique
+2149,NCT00370396,1,GMC,0.0299999999,0,0,0.03,0.04,Anti-1 PRE,Prevenar-Prevenar Group,ambiguous_group_consistent_bounds
+2150,NCT00370396,18C,GMC,0.3200000000,0,0,0.26,0.39,Anti-18C PRE,Prevenar-Prevenar Group,unique
+2151,NCT00370396,7F,GMC,0.5699999999,0,0,0.52,0.62,Anti-7F PRE,Synflorix-Synflorix Group,unique
+2152,NCT00370396,1,GMC,0.1400000000,0,0,0.13,0.16,Anti-1 PRE,Synflorix-Synflorix Group,unique
+2153,NCT00370396,14,GMC,0.6600000000,0,0,0.56,0.76,Anti-14 PRE,Synflorix-Synflorix Group,unique
+2154,NCT00370396,23F,GMC,0.2700000000,0,0,0.23,0.31,Anti-23F PRE,Synflorix-Synflorix Group,unique
+2155,NCT00370396,5,GMC,0.2700000000,0,0,0.25,0.3,Anti-5 PRE,Synflorix-Synflorix Group,unique
+2156,NCT00370396,6B,GMC,0.3099999999,0,0,0.27,0.35,Anti-6B PRE,Synflorix-Synflorix Group,unique
+2157,NCT00370396,4,GMC,0.2300000000,0,0,0.21,0.26,Anti-4 PRE,Synflorix-Synflorix Group,unique
+2158,NCT00370396,18C,GMC,0.2999999999,0,0,0.28,0.34,Anti-18C PRE,Synflorix-Synflorix Group,unique
+2159,NCT00370396,19F,GMC,0.5300000000,0,0,0.46,0.61,Anti-19F PRE,Synflorix-Synflorix Group,unique
+2160,NCT00370396,9V,GMC,0.5400000000,0,0,0.48,0.6,Anti-9V PRE,Synflorix-Synflorix Group,unique
+2748,NCT03620162,33F,GMC,0.0500000000,0,0,0.05,0.06,Serotype 33F,Group 1: Prevnar 13™-Prevnar 13™-Prevnar 13™-Prevnar 13™,ambiguous_group_consistent_bounds
+2767,NCT03620162,33F,GMC,2.2200000000,0,0,1.86,2.66,Serotype 33F,Group 5: V114-V114-V114-V114,unique
+2777,NCT03620162,33F,GMC,0.8900000000,0,0,0.70,1.14,Serotype 33F,Group 4: Prevnar 13™-V114-V114-V114,unique
+2783,NCT03620162,33F,GMC,0.0500000000,0,0,0.05,0.06,Serotype 33F,Group 1: Prevnar 13™-Prevnar 13™-Prevnar 13™-Prevnar 13™,ambiguous_group_consistent_bounds
+2792,NCT03620162,33F,GMC,0.2800000000,0,0,0.21,0.36,Serotype 33F,Group 3: Prevnar 13™-Prevnar 13™-V114-V114,unique
+2794,NCT03620162,18C,GMC,2.6499999999,0,0,2.34,3.01,Serotype 18C,Group 5: V114-V114-V114-V114,ambiguous_group_consistent_bounds
+2796,NCT03620162,4,GMC,1.3500000000,0,0,1.17,1.57,Serotype 4,Group 5: V114-V114-V114-V114,ambiguous_group_consistent_bounds
+2797,NCT03620162,23F,GMC,2.1099999999,0,0,1.81,2.46,Serotype 23F,Group 5: V114-V114-V114-V114,ambiguous_group_consistent_bounds
+2798,NCT03620162,6B,GMC,5.8300000000,0,0,5.09,6.68,Serotype 6B,Group 5: V114-V114-V114-V114,ambiguous_group_consistent_bounds
+2799,NCT03620162,19A,GMC,4.6600000000,0,0,4.15,5.24,Serotype 19A,Group 5: V114-V114-V114-V114,ambiguous_group_consistent_bounds
+2801,NCT03620162,19F,GMC,4.0999999999,0,0,3.66,4.59,Serotype 19F,Group 5: V114-V114-V114-V114,ambiguous_group_consistent_bounds
+2802,NCT03620162,9V,GMC,2.8900000000,0,0,2.56,3.26,Serotype 9V,Group 5: V114-V114-V114-V114,ambiguous_group_consistent_bounds
+2803,NCT03620162,3,GMC,0.8900000000,0,0,0.79,0.99,Serotype 3,Group 5: V114-V114-V114-V114,ambiguous_group_consistent_bounds
+2805,NCT03620162,6A,GMC,4.4299999999,0,0,3.86,5.09,Serotype 6A,Group 5: V114-V114-V114-V114,ambiguous_group_consistent_bounds
+2811,NCT03620162,1,GMC,1.4599999999,0,0,1.30,1.63,Serotype 1,Group 5: V114-V114-V114-V114,ambiguous_group_consistent_bounds
+2819,NCT03620162,7F,GMC,3.4300000000,0,0,3.02,3.91,Serotype 7F,Group 5: V114-V114-V114-V114,ambiguous_group_consistent_bounds
+2829,NCT03620162,4,GMC,1.3500000000,0,0,1.17,1.57,Serotype 4,Group 5: V114-V114-V114-V114,ambiguous_group_consistent_bounds
+2850,NCT03620162,1,GMC,1.4599999999,0,0,1.30,1.63,Serotype 1,Group 5: V114-V114-V114-V114,ambiguous_group_consistent_bounds
+2851,NCT03620162,18C,GMC,2.6499999999,0,0,2.34,3.01,Serotype 18C,Group 5: V114-V114-V114-V114,ambiguous_group_consistent_bounds
+2857,NCT03620162,19A,GMC,4.6600000000,0,0,4.15,5.24,Serotype 19A,Group 5: V114-V114-V114-V114,ambiguous_group_consistent_bounds
+3129,NCT03512288,10A,GMC,1.6699999999,0,0,1.35,2.08,Serotype 10A,20vPnC,unique
+3145,NCT03512288,33F,GMC,0.0500000000,0,0,0.04,0.05,Serotype 33F,13vPnC,ambiguous_group_consistent_bounds
+3148,NCT03512288,22F,GMC,4.6200000000,0,0,3.99,5.35,Serotype 22F,20vPnC,unique
+3150,NCT03512288,15B,GMC,5.8600000000,0,0,5.11,6.72,Serotype 15B,20vPnC,unique
+3151,NCT03512288,22F,GMC,0.0100000000,0,0,0.01,0.01,Serotype 22F,13vPnC,ambiguous_group_consistent_bounds
+3155,NCT03512288,15B,GMC,0.0400000000,0,0,0.04,0.05,Serotype 15B,13vPnC,ambiguous_group_consistent_bounds
+3156,NCT03512288,33F,GMC,2.2099999999,0,0,1.87,2.61,Serotype 33F,20vPnC,unique
+3159,NCT03512288,11A,GMC,1.9399999999,0,0,1.70,2.21,Serotype 11A,20vPnC,unique
+3162,NCT03512288,12F,GMC,0.8599999999,0,0,0.72,1.01,Serotype 12F,20vPnC,unique
+3172,NCT03512288,12F,GMC,1.9199999999,0,0,1.68,2.20,Serotype 12F,20vPnC,unique
+3173,NCT03512288,33F,GMC,4.7000000000,0,0,4.20,5.27,Serotype 33F,20vPnC,unique
+3174,NCT03512288,11A,GMC,5.7000000000,0,0,4.96,6.54,Serotype 11A,20vPnC,unique
+3177,NCT03512288,15B,GMC,0.0400000000,0,0,0.04,0.05,Serotype 15B,13vPnC,ambiguous_group_consistent_bounds
+3183,NCT03512288,15B,GMC,18.449999999,0,0,16.43,20.72,Serotype 15B,20vPnC,unique
+3189,NCT03512288,33F,GMC,0.0500000000,0,0,0.04,0.05,Serotype 33F,13vPnC,ambiguous_group_consistent_bounds
+3190,NCT03512288,10A,GMC,9.9299999999,0,0,8.58,11.50,Serotype 10A,20vPnC,unique
+3192,NCT03512288,22F,GMC,0.0100000000,0,0,0.01,0.01,Serotype 22F,13vPnC,ambiguous_group_consistent_bounds
+3195,NCT03512288,22F,GMC,14.679999999,0,0,12.62,17.08,Serotype 22F,20vPnC,unique
+3433,NCT04665050,9N,GMC,14.169999999,0,0,NA,NA,Serotype 9N,V116,unique
+3435,NCT04665050,22F,GMC,3.9399999999,0,0,NA,NA,Serotype 22F,V116,unique
+3437,NCT04665050,20A,GMC,23.530000000,0,0,NA,NA,Serotype 20A,V116,unique
+3438,NCT04665050,10A,GMC,11.130000000,0,0,NA,NA,Serotype 10A,V116,unique
+3440,NCT04665050,7F,GMC,10.289999999,0,0,NA,NA,Serotype 7F,V116,unique
+3441,NCT04665050,8,GMC,19.379999999,0,0,NA,NA,Serotype 8,V116,unique
+3443,NCT04665050,17F,GMC,19.460000000,0,0,NA,NA,Serotype 17F,V116,unique
+3444,NCT04665050,11A,GMC,9.0700000000,0,0,NA,NA,Serotype 11A,V116,unique
+3445,NCT04665050,19A,GMC,10.75,0,0,NA,NA,Serotype 19A,V116,unique
+3446,NCT04665050,12F,GMC,2.8700000000,0,0,NA,NA,Serotype 12F,V116,unique
+3447,NCT04665050,33F,GMC,22,0,0,NA,NA,Serotype 33F,V116,unique
+3448,NCT04665050,3,GMC,1.1299999999,0,0,NA,NA,Serotype 3,V116,unique
+3453,NCT04665050,8,OPA,721.85000000,0,0,NA,NA,Serotype 8,PNEUMOVAX™23,unique
+3454,NCT04665050,7F,OPA,4406.1099999,0,0,NA,NA,Serotype 7F,PNEUMOVAX™23,unique
+3455,NCT04665050,22F,OPA,5768.7899999,0,0,NA,NA,Serotype 22F,V116,unique
+3456,NCT04665050,33F,OPA,33187.25,0,0,NA,NA,Serotype 33F,V116,unique
+3457,NCT04665050,12F,OPA,1356.2000000,0,0,NA,NA,Serotype 12F,V116,unique
+3458,NCT04665050,11A,OPA,603,0,0,NA,NA,Serotype 11A,PNEUMOVAX™23,unique
+3459,NCT04665050,19A,OPA,738.51999999,0,0,NA,NA,Serotype 19A,PNEUMOVAX™23,unique
+3460,NCT04665050,22F,OPA,3000.5,0,0,NA,NA,Serotype 22F,PNEUMOVAX™23,unique
+3461,NCT04665050,8,OPA,1287.6600000,0,0,NA,NA,Serotype 8,V116,unique
+3462,NCT04665050,9N,OPA,3466.7199999,0,0,NA,NA,Serotype 9N,PNEUMOVAX™23,unique
+3463,NCT04665050,10A,OPA,3608.3400000,0,0,NA,NA,Serotype 10A,V116,unique
+3464,NCT04665050,3,OPA,100.76000000,0,0,NA,NA,Serotype 3,PNEUMOVAX™23,unique
+3465,NCT04665050,9N,OPA,6555.8199999,0,0,NA,NA,Serotype 9N,V116,unique
+3466,NCT04665050,3,OPA,161.08000000,0,0,NA,NA,Serotype 3,V116,unique
+3467,NCT04665050,10A,OPA,1330.75,0,0,NA,NA,Serotype 10A,PNEUMOVAX™23,unique
+3468,NCT04665050,17F,OPA,3293.3099999,0,0,NA,NA,Serotype 17F,PNEUMOVAX™23,unique
+3469,NCT04665050,11A,OPA,1467.6600000,0,0,NA,NA,Serotype 11A,V116,unique
+3470,NCT04665050,7F,OPA,5327.6700000,0,0,NA,NA,Serotype 7F,V116,unique
+3471,NCT04665050,12F,OPA,563.99000000,0,0,NA,NA,Serotype 12F,PNEUMOVAX™23,unique
+3472,NCT04665050,20A,OPA,3542.9000000,0,0,NA,NA,Serotype 20A,V116,unique
+3473,NCT04665050,33F,OPA,28831.770000,0,0,NA,NA,Serotype 33F,PNEUMOVAX™23,unique
+3474,NCT04665050,19A,OPA,1479.8199999,0,0,NA,NA,Serotype 19A,V116,unique
+3475,NCT04665050,17F,OPA,8470.2099999,0,0,NA,NA,Serotype 17F,V116,unique
+3476,NCT04665050,20A,OPA,1553.9900000,0,0,NA,NA,Serotype 20A,PNEUMOVAX™23,unique
+3477,NCT04665050,23B,OPA,2065.3899999,0,0,NA,NA,Serotype 23B,V116,unique
+3478,NCT04665050,31,OPA,1699.5399999,0,0,NA,NA,Serotype 31,V116,unique
+3479,NCT04665050,16F,OPA,2459.2600000,0,0,NA,NA,Serotype 16F,V116,unique
+3480,NCT04665050,15C,OPA,3641.8400000,0,0,NA,NA,Serotype 15C,V116,unique
+3481,NCT04665050,16F,OPA,244.49000000,0,0,NA,NA,Serotype 16F,PNEUMOVAX™23,unique
+3482,NCT04665050,15A,OPA,807.15999999,0,0,NA,NA,Serotype 15A,PNEUMOVAX™23,unique
+3483,NCT04665050,23A,OPA,62.259999999,0,0,NA,NA,Serotype 23A,PNEUMOVAX™23,unique
+3484,NCT04665050,31,OPA,66.239999999,0,0,NA,NA,Serotype 31,PNEUMOVAX™23,unique
+3485,NCT04665050,23A,OPA,2620.1900000,0,0,NA,NA,Serotype 23A,V116,unique
+3486,NCT04665050,6A,OPA,1663.2000000,0,0,NA,NA,Serotype 6A,V116,unique
+3487,NCT04665050,23B,OPA,167.03000000,0,0,NA,NA,Serotype 23B,PNEUMOVAX™23,unique
+3488,NCT04665050,35B,OPA,349.06999999,0,0,NA,NA,Serotype 35B,PNEUMOVAX™23,unique
+3489,NCT04665050,15A,OPA,5030.6599999,0,0,NA,NA,Serotype 15A,V116,unique
+3490,NCT04665050,35B,OPA,4992.5799999,0,0,NA,NA,Serotype 35B,V116,unique
+3491,NCT04665050,24F,OPA,2742.9299999,0,0,NA,NA,Serotype 24F,V116,unique
+3492,NCT04665050,6A,OPA,464.64999999,0,0,NA,NA,Serotype 6A,PNEUMOVAX™23,unique
+3493,NCT04665050,24F,OPA,110.53000000,0,0,NA,NA,Serotype 24F,PNEUMOVAX™23,unique
+3494,NCT04665050,15C,OPA,1565.5599999,0,0,NA,NA,Serotype 15C,PNEUMOVAX™23,unique
+3499,NCT04384107,33F,OPA,1183.5199999,0,0,844.22,1659.18,Serotype 33F (Unique to V114),PCV13,unique
+3533,NCT04384107,33F,GMC,0.1400000000,0,0,0.12,0.15,Serotype 33F (Unique to V114),PCV13,unique
+3592,NCT04384107,33F,OPA,23888.790000,0,0,17632.59,32364.75,Serotype 33F (Unique to V114),V114,unique
+3612,NCT04384107,33F,OPA,121.79000000,0,0,89.73,165.32,Serotype 33F (Unique to V114),PCV13,unique
+3726,NCT00345358,5,OPA,143.80000000,0,0,93.6,221,"Opsono-5, POST",Synflorix <6M Group,unique
+3727,NCT00345358,1,OPA,234.09999999,0,0,127.4,430.2,"Opsono-1, POST",Synflorix 7-11M Group,unique
+3728,NCT00345358,6B,OPA,262,0,0,130.3,526.5,"Opsono-6B, POST",Synflorix <6M Group,unique
+3729,NCT00345358,19F,OPA,513.10000000,0,0,265.8,990.2,"Opsono-19F, POST",Synflorix 7-11M Group,unique
+3730,NCT00345358,5,OPA,16,0,0,11.1,23.1,"Opsono-5, PRE",Synflorix <6M Group,unique
+3731,NCT00345358,19F,OPA,418.39999999,0,0,237.8,736.4,"Opsono-19F, POST",Synflorix <6M Group,unique
+3732,NCT00345358,9V,OPA,1427,0,0,972.7,2093.4,"Opsono-9V, PRE",Synflorix 7-11M Group,unique
+3733,NCT00345358,19F,OPA,18.699999999,0,0,12,29.3,"Opsono-19F, PRE",Synflorix <6M Group,unique
+3734,NCT00345358,18C,OPA,1332.9000000,0,0,926.3,1918,"Opsono-18C, POST",Synflorix 7-11M Group,unique
+3735,NCT00345358,7F,OPA,1380.5999999,0,0,730.3,2609.9,"Opsono-7F, PRE",Synflorix 7-11M Group,unique
+3736,NCT00345358,5,OPA,25.800000000,0,0,16.3,41,"Opsono-5, PRE",Synflorix 7-11M Group,unique
+3737,NCT00345358,6B,OPA,122.70000000,0,0,50.3,299.5,"Opsono-6B, PRE",Synflorix 7-11M Group,unique
+3738,NCT00345358,7F,OPA,819.60000000,0,0,451.8,1423.8,"Opsono-7F, PRE",Synflorix <6M Group,unique
+3739,NCT00345358,4,OPA,1486.2999999,0,0,1138,1941,"Opsono-4, POST",Synflorix <6M Group,unique
+3740,NCT00345358,4,OPA,978.29999999,0,0,720.6,1328.1,"Opsono-4, POST",Synflorix 7-11M Group,unique
+3741,NCT00345358,4,OPA,94,0,0,47.7,185.2,"Opsono-4, PRE",Synflorix 7-11M Group,unique
+3742,NCT00345358,1,OPA,188,0,0,103.6,342.5,"Opsono-1, POST",Synflorix <6M Group,unique
+3743,NCT00345358,23F,OPA,1770,0,0,1148.4,2728,"Opsono-23F, POST",Synflorix 7-11M Group,unique
+3744,NCT00345358,1,OPA,6,0,0,4.5,8.1,"Opsono-1, PRE",Synflorix <6M Group,unique
+3745,NCT00345358,1,OPA,9.9000000000,0,0,5.8,16.9,"Opsono-1, PRE",Synflorix 7-11M Group,unique
+3746,NCT00345358,18C,OPA,650.29999999,0,0,437.4,966.8,"Opsono-18C, POST",Synflorix <6M Group,unique
+3747,NCT00345358,14,OPA,1859.4000000,0,0,1452.1,2380.9,"Opsono-14, POST",Synflorix 7-11M Group,unique
+3748,NCT00345358,23F,OPA,675.79999999,0,0,293.2,1557.4,"Opsono-23F, PRE",Synflorix 7-11M Group,unique
+3749,NCT00345358,9V,OPA,2198,0,0,1718.6,2811.1,"Opsono-9V, POST",Synflorix <6M Group,unique
+3750,NCT00345358,14,OPA,158.59999999,0,0,82.6,304.6,"Opsono-14, PRE",Synflorix <6M Group,unique
+3751,NCT00345358,6B,OPA,620.29999999,0,0,356.5,1079.4,"Opsono-6B, POST",Synflorix 7-11M Group,unique
+3752,NCT00345358,7F,OPA,4199.1000000,0,0,3364.6,5240.6,"Opsono-7F, POST",Synflorix <6M Group,unique
+3753,NCT00345358,14,OPA,2224.6999999,0,0,1674.1,2956.5,"Opsono-14, POST",Synflorix <6M Group,unique
+3754,NCT00345358,9V,OPA,328.19999999,0,0,245.4,438.8,"Opsono-9V, PRE",Synflorix <6M Group,unique
+3755,NCT00345358,9V,OPA,2241.1999999,0,0,1758.7,2856,"Opsono-9V, POST",Synflorix 7-11M Group,unique
+3756,NCT00345358,4,OPA,22.199999999,0,0,12.4,39.9,"Opsono-4, PRE",Synflorix <6M Group,unique
+3757,NCT00345358,6B,OPA,59.299999999,0,0,29.3,120.1,"Opsono-6B, PRE",Synflorix <6M Group,unique
+3758,NCT00345358,19F,OPA,43.299999999,0,0,23.3,80.4,"Opsono-19F, PRE",Synflorix 7-11M Group,unique
+3759,NCT00345358,23F,OPA,3594.5,0,0,2676.8,4826.8,"Opsono-23F, POST",Synflorix <6M Group,unique
+3760,NCT00345358,18C,OPA,395.89999999,0,0,219.9,712.8,"Opsono-18C, PRE",Synflorix 7-11M Group,unique
+3761,NCT00345358,23F,OPA,700.60000000,0,0,376.5,1303.9,"Opsono-23F, PRE",Synflorix <6M Group,unique
+3762,NCT00345358,14,OPA,883.79999999,0,0,597.9,1306.2,"Opsono-14, PRE",Synflorix 7-11M Group,unique
+3763,NCT00345358,5,OPA,243,0,0,151.6,389.7,"Opsono-5, POST",Synflorix 7-11M Group,unique
+3764,NCT00345358,18C,OPA,6.5,0,0,4.2,10,"Opsono-18C, PRE",Synflorix <6M Group,unique
+3765,NCT00345358,7F,OPA,3726.8000000,0,0,2759.4,5033.3,"Opsono-7F, POST",Synflorix 7-11M Group,unique
+3766,NCT00345358,9V,GMC,0.8499999999,0,0,0.73,0.98,"Anti-9V, PRE",Synflorix <6M Group,unique
+3767,NCT00345358,1,GMC,0.2899999999,0,0,0.25,0.34,"Anti-1, PRE",Synflorix <6M Group,unique
+3768,NCT00345358,14,GMC,1.0300000000,0,0,0.85,1.25,"Anti-14, PRE",Synflorix <6M Group,unique
+3769,NCT00345358,5,GMC,2.8799999999,0,0,2.48,3.34,"Anti-5, POST",Synflorix 7-11M Group,unique
+3770,NCT00345358,1,GMC,1.8400000000,0,0,1.59,2.12,"Anti-1, POST",Synflorix <6M Group,unique
+3771,NCT00345358,6B,GMC,1.3899999999,0,0,1.14,1.69,"Anti-6B, POST",Synflorix 7-11M Group,unique
+3772,NCT00345358,19F,GMC,3.3799999999,0,0,2.81,4.06,"Anti-19F, POST",Synflorix <6M Group,unique
+3773,NCT00345358,14,GMC,5.4100000000,0,0,4.71,6.22,"Anti-14, POST",Synflorix 7-11M Group,unique
+3774,NCT00345358,7F,GMC,3.3100000000,0,0,2.92,3.74,"Anti-7F, POST",Synflorix <6M Group,unique
+3776,NCT00345358,6B,GMC,0.4099999999,0,0,0.34,0.5,"Anti-6B, PRE",Synflorix <6M Group,unique
+3777,NCT00345358,5,GMC,2.2099999999,0,0,1.94,2.53,"Anti-5, POST",Synflorix <6M Group,unique
+3778,NCT00345358,4,GMC,3.7900000000,0,0,3.27,4.4,"Anti-4, POST",Synflorix 7-11M Group,unique
+3779,NCT00345358,19F,GMC,1.9899999999,0,0,1.65,2.4,"Anti-19F, PRE",Synflorix 7-11M Group,unique
+3780,NCT00345358,7F,GMC,0.8199999999,0,0,0.72,0.94,"Anti-7F, PRE",Synflorix <6M Group,unique
+3781,NCT00345358,4,GMC,1.3500000000,0,0,1.17,1.57,"Anti-4, PRE",Synflorix 7-11M Group,unique
+3782,NCT00345358,18C,GMC,9.4000000000,0,0,8.04,10.98,"Anti-18C, POST",Synflorix 7-11M Group,unique
+3783,NCT00345358,4,GMC,0.5600000000,0,0,0.48,0.66,"Anti-4, PRE",Synflorix <6M Group,unique
+3784,NCT00345358,6B,GMC,0.4799999999,0,0,0.4,0.58,"Anti-6B, PRE",Synflorix 7-11M Group,unique
+3785,NCT00345358,1,GMC,1.7700000000,0,0,1.55,2.02,"Anti-1, POST",Synflorix 7-11M Group,unique
+3786,NCT00345358,19F,GMC,0.5500000000,0,0,0.44,0.7,"Anti-19F, PRE",Synflorix <6M Group,unique
+3787,NCT00345358,1,GMC,0.4899999999,0,0,0.43,0.57,"Anti-1, PRE",Synflorix 7-11M Group,unique
+3788,NCT00345358,23F,GMC,2.7599999999,0,0,2.37,3.21,"Anti-23F, POST",Synflorix <6M Group,unique
+3789,NCT00345358,9V,GMC,3.4100000000,0,0,2.96,3.92,"Anti-9V, POST",Synflorix <6M Group,unique
+3790,NCT00345358,4,GMC,2.9799999999,0,0,2.6,3.42,"Anti-4, POST",Synflorix <6M Group,unique
+3791,NCT00345358,18C,GMC,5.2800000000,0,0,4.55,6.12,"Anti-18C, POST",Synflorix <6M Group,unique
+3792,NCT00345358,5,GMC,0.8000000000,0,0,0.7,0.93,"Anti-5, PRE",Synflorix 7-11M Group,unique
+3793,NCT00345358,23F,GMC,0.4799999999,0,0,0.39,0.58,"Anti-23F, PRE",Synflorix <6M Group,unique
+3794,NCT00345358,5,GMC,0.5100000000,0,0,0.44,0.59,"Anti-5, PRE",Synflorix <6M Group,unique
+3795,NCT00345358,7F,GMC,3.7299999999,0,0,3.24,4.28,"Anti-7F, POST",Synflorix 7-11M Group,unique
+3796,NCT00345358,18C,GMC,2.5800000000,0,0,2.2,3.04,"Anti-18C, PRE",Synflorix 7-11M Group,unique
+3797,NCT00345358,9V,GMC,2.1299999999,0,0,1.82,2.5,"Anti-9V, POST",Synflorix 7-11M Group,unique
+3798,NCT00345358,7F,GMC,1.5800000000,0,0,1.39,1.8,"Anti-7F, PRE",Synflorix 7-11M Group,unique
+3799,NCT00345358,6B,GMC,1.6200000000,0,0,1.35,1.94,"Anti-6B, POST",Synflorix <6M Group,unique
+3800,NCT00345358,23F,GMC,1.6499999999,0,0,1.33,2.03,"Anti-23F, POST",Synflorix 7-11M Group,unique
+3801,NCT00345358,18C,GMC,0.6199999999,0,0,0.53,0.74,"Anti-18C, PRE",Synflorix <6M Group,unique
+3802,NCT00345358,14,GMC,3.9599999999,0,0,3.39,4.62,"Anti-14, POST",Synflorix <6M Group,unique
+3803,NCT00345358,23F,GMC,0.5699999999,0,0,0.46,0.7,"Anti-23F, PRE",Synflorix 7-11M Group,unique
+3804,NCT00345358,9V,GMC,0.7900000000,0,0,0.67,0.93,"Anti-9V, PRE",Synflorix 7-11M Group,unique
+3805,NCT00345358,19F,GMC,5.7099999999,0,0,4.68,6.97,"Anti-19F, POST",Synflorix 7-11M Group,unique
+3886,NCT00345358,6A,GMC,0.1499999999,0,0,0.12,0.19,"Anti-6A, PRE",Synflorix <6M Group,unique
+3887,NCT00345358,19A,GMC,0.9899999999,0,0,0.78,1.25,"Anti-19A, POST",Synflorix 7-11M Group,unique
+3888,NCT00345358,19A,GMC,0.1000000000,0,0,0.09,0.13,"Anti-19A, PRE",Synflorix <6M Group,unique
+3889,NCT00345358,19A,GMC,0.4899999999,0,0,0.39,0.61,"Anti-19A, POST",Synflorix <6M Group,unique
+3890,NCT00345358,19A,GMC,0.2600000000,0,0,0.21,0.32,"Anti-19A, PRE",Synflorix 7-11M Group,unique
+3891,NCT00345358,6A,GMC,0.1799999999,0,0,0.14,0.23,"Anti-6A, PRE",Synflorix 7-11M Group,unique
+3894,NCT00345358,19A,OPA,36.799999999,0,0,16.2,83.8,"Opsono-19A, POST",Synflorix 7-11M Group,unique
+3895,NCT00345358,6A,OPA,140.09999999,0,0,69.2,283.3,"Opsono-6A, PRE",Synflorix 7-11M Group,unique
+3897,NCT00345358,19A,OPA,7,0,0,3.9,12.6,"Opsono-19A, PRE",Synflorix 7-11M Group,unique
+3898,NCT00345358,6A,OPA,31.899999999,0,0,15.9,63.9,"Opsono-6A, PRE",Synflorix <6M Group,unique
+3899,NCT00345358,19A,OPA,5.7000000000,0,0,4.2,7.7,"Opsono-19A, PRE",Synflorix <6M Group,unique
+3900,NCT00345358,19A,OPA,16.100000000,0,0,8.6,30.1,"Opsono-19A, POST",Synflorix <6M Group,unique
+3902,NCT04016714,33F,GMC,3.2799999999,0,0,3.06,3.51,Serotype 33F,V114,unique
+3918,NCT04016714,33F,GMC,0.0700000000,0,0,0.06,0.07,Serotype 33F,Prevenar 13™,unique
+3947,NCT04016714,33F,GMC,0.2999999999,0,0,0.27,0.34,Serotype 33F,V114,unique
+3961,NCT04016714,33F,GMC,0.0400000000,0,0,0.04,0.04,Serotype 33F,Prevenar 13™,unique
+3962,NCT00307034,14,OPA,692.60000000,0,0,559.1,858,"Opsono-14, Month 3 (N= 132, 131)",Synflorix I Group,unique
+3963,NCT00307034,19F,OPA,31.600000000,0,0,24.5,40.8,"Opsono-19F, Month 9 (N= 130, 134)",Synflorix II Group,unique
+3964,NCT00307034,19F,OPA,16.5,0,0,12.9,21.1,"Opsono-19F, Month 9 (N= 130, 134)",Synflorix I Group,unique
+3965,NCT00307034,19F,OPA,734.70000000,0,0,568.3,949.8,"Opsono-19F, Month 10 (N=131, 129)",Synflorix II Group,unique
+3966,NCT00307034,14,OPA,157.30000000,0,0,108.5,228.1,"Opsono-14, Month 9 (N= 102, 123)",Synflorix II Group,unique
+3967,NCT00307034,9V,OPA,1343.4000000,0,0,1130.8,1596,"Opsono-9V, Month 3 (N= 134, 132)",Synflorix II Group,unique
+3968,NCT00307034,18C,OPA,490.80000000,0,0,395.3,609.4,"Opsono-18C, Month 10 (N=136, 130)",Synflorix II Group,unique
+3969,NCT00307034,4,OPA,13.800000000,0,0,9.7,19.6,"Opsono-4, Month 9 (N= 104, 114)",Synflorix I Group,unique
+3970,NCT00307034,7F,OPA,844.79999999,0,0,591.4,1206.7,"Opsono-7F, Month 3 (N= 127, 131)",Synflorix I Group,unique
+3971,NCT00307034,5,OPA,68.400000000,0,0,54,86.5,"Opsono-5, Month 3 (N= 132, 130)",Synflorix II Group,unique
+3972,NCT00307034,23F,OPA,1233.7000000,0,0,991.7,1534.7,"Opsono-23F, Month 3 (N= 131, 129)",Synflorix II Group,unique
+3973,NCT00307034,23F,OPA,190.69999999,0,0,115.2,315.6,"Opsono-23F, Month 9 (N= 112, 133)",Synflorix I Group,unique
+3974,NCT00307034,1,OPA,26.5,0,0,19.8,35.4,"Opsono-1, Month 3 (N= 130, 132)",Synflorix II Group,unique
+3975,NCT00307034,19F,OPA,251.30000000,0,0,193.4,326.6,"Opsono-19F, Month 10 (N=131, 129)",Synflorix I Group,unique
+3976,NCT00307034,6B,OPA,56.100000000,0,0,34.9,90.4,"Opsono-6B, Month 9 (N= 121, 124)",Synflorix I Group,unique
+3977,NCT00307034,7F,OPA,380.60000000,0,0,253,572.6,"Opsono-7F, Month 9 (N= 113, 126)",Synflorix II Group,unique
+3978,NCT00307034,14,OPA,1125.2999999,0,0,946.2,1338.3,"Opsono-14, Month 3 (N= 132, 131)",Synflorix II Group,unique
+3979,NCT00307034,4,OPA,462.60000000,0,0,410.4,521.4,"Opsono-4, Month 3 (N= 134, 132)",Synflorix I Group,unique
+3980,NCT00307034,14,OPA,52.100000000,0,0,32.4,84,"Opsono-14, Month 9 (N= 102, 123)",Synflorix I Group,unique
+3981,NCT00307034,7F,OPA,2176.5,0,0,1759.2,2692.7,"Opsono-7F, Month 3 (N= 127, 131)",Synflorix II Group,unique
+3982,NCT00307034,5,OPA,157.19999999,0,0,123.1,200.7,"Opsono-5, Month 10 (N=133, 121)",Synflorix II Group,unique
+3983,NCT00307034,18C,OPA,8.3000000000,0,0,6.5,10.7,"Opsono-18C, Month 9 (N= 122, 126)",Synflorix I Group,unique
+3984,NCT00307034,7F,OPA,3290.5999999,0,0,2709.1,3996.8,"Opsono-7F, Month 10 (N=128, 109)",Synflorix II Group,unique
+3985,NCT00307034,1,OPA,100.59999999,0,0,68.9,146.9,"Opsono-1, Month 10 (N=131, 126)",Synflorix II Group,unique
+3986,NCT00307034,18C,OPA,56.200000000,0,0,42.9,73.7,"Opsono-18C, Month 3 (N= 134, 131)",Synflorix I Group,unique
+3987,NCT00307034,9V,OPA,875.10000000,0,0,732,1046.1,"Opsono-9V, Month 3 (N= 134, 132)",Synflorix I Group,unique
+3988,NCT00307034,4,OPA,1204,0,0,990.7,1463.2,"Opsono-4, Month 10 (N=125, 101)",Synflorix II Group,unique
+3989,NCT00307034,6B,OPA,379.60000000,0,0,272.4,529.1,"Opsono-6B, Month 3 (N= 125, 126)",Synflorix II Group,unique
+3990,NCT00307034,4,OPA,758.89999999,0,0,647.8,888.9,"Opsono-4, Month 3 (N= 134, 132)",Synflorix II Group,unique
+3991,NCT00307034,18C,OPA,218.59999999,0,0,176.1,271.4,"Opsono-18C, Month 3 (N= 134, 131)",Synflorix II Group,unique
+3992,NCT00307034,9V,OPA,1068.0999999,0,0,874.7,1304.2,"Opsono-9V, Month 10 (N=129, 109)",Synflorix I Group,unique
+3993,NCT00307034,18C,OPA,16.899999999,0,0,12.5,22.8,"Opsono-18C, Month 9 (N= 122, 126)",Synflorix II Group,unique
+3994,NCT00307034,6B,OPA,62.899999999,0,0,40.2,98.5,"Opsono-6B, Month 9 (N= 121, 124)",Synflorix II Group,unique
+3995,NCT00307034,18C,OPA,330,0,0,259.1,420.3,"Opsono-18C, Month 10 (N=136, 130)",Synflorix I Group,unique
+3996,NCT00307034,23F,OPA,489.69999999,0,0,342.6,700,"Opsono-23F, Month 3 (N= 131, 129)",Synflorix I Group,unique
+3997,NCT00307034,1,OPA,6.7000000000,0,0,5.4,8.3,"Opsono-1, Month 9 (N= 136, 134)",Synflorix II Group,unique
+3998,NCT00307034,7F,OPA,148.5,0,0,89.5,246.4,"Opsono-7F, Month 9 (N= 113, 126)",Synflorix I Group,unique
+3999,NCT00307034,9V,OPA,266.80000000,0,0,205.1,347.1,"Opsono-9V, Month 9 (N= 120, 134)",Synflorix I Group,unique
+4000,NCT00307034,1,OPA,21.899999999,0,0,16.4,29.1,"Opsono-1, Month 3 (N= 130, 132)",Synflorix I Group,unique
+4001,NCT00307034,23F,OPA,150.69999999,0,0,95.9,236.8,"Opsono-23F, Month 9 (N= 112, 133)",Synflorix II Group,unique
+4002,NCT00307034,14,OPA,1280.7000000,0,0,1054.5,1555.5,"Opsono-14, Month 10 (N=107, 101)",Synflorix II Group,unique
+4003,NCT00307034,9V,OPA,322.19999999,0,0,256.4,405.1,"Opsono-9V, Month 9 (N= 120, 134)",Synflorix II Group,unique
+4004,NCT00307034,23F,OPA,1047.2999999,0,0,748.1,1466.3,"Opsono-23F, Month 10 (N=134, 121)",Synflorix I Group,unique
+4005,NCT00307034,6B,OPA,157.80000000,0,0,104.7,237.8,"Opsono-6B, Month 3 (N= 125, 126)",Synflorix I Group,unique
+4006,NCT00307034,9V,OPA,1706.9000000,0,0,1438.5,2025.3,"Opsono-9V, Month 10 (N=129, 109)",Synflorix II Group,unique
+4007,NCT00307034,5,OPA,102.09999999,0,0,75.8,137.6,"Opsono-5, Month 10 (N=133, 121)",Synflorix I Group,unique
+4008,NCT00307034,5,OPA,10.699999999,0,0,8.6,13.4,"Opsono-5, Month 9 (N= 133, 135)",Synflorix II Group,unique
+4009,NCT00307034,5,OPA,48.299999999,0,0,37.7,61.8,"Opsono-5, Month 3 (N= 132, 130)",Synflorix I Group,unique
+4010,NCT00307034,1,OPA,5.0999999999,0,0,4.5,5.8,"Opsono-1, Month 9 (N= 136, 134)",Synflorix I Group,unique
+4011,NCT00307034,4,OPA,634.60000000,0,0,496.3,811.3,"Opsono-4, Month 10 (N=125, 101)",Synflorix I Group,unique
+4012,NCT00307034,19F,OPA,356.69999999,0,0,263.2,483.4,"Opsono-19F, Month 3 (N= 131, 128)",Synflorix II Group,unique
+4013,NCT00307034,14,OPA,835.5,0,0,672.1,1038.5,"Opsono-14, Month 10 (N=107, 101)",Synflorix I Group,unique
+4014,NCT00307034,4,OPA,18.600000000,0,0,12.7,27.2,"Opsono-4, Month 9 (N= 104, 114)",Synflorix II Group,unique
+4015,NCT00307034,23F,OPA,1528.9000000,0,0,1171.2,1996,"Opsono-23F, Month 10 (N=134, 121)",Synflorix II Group,unique
+4016,NCT00307034,19F,OPA,101,0,0,74.9,136,"Opsono-19F, Month 3 (N= 131, 128)",Synflorix I Group,unique
+4017,NCT00307034,1,OPA,109.90000000,0,0,76.1,158.7,"Opsono-1, Month 10 (N=131, 126)",Synflorix I Group,unique
+4018,NCT00307034,6B,OPA,220.30000000,0,0,146.9,330.3,"Opsono-6B, Month 10 (N=132, 103)",Synflorix I Group,unique
+4019,NCT00307034,5,OPA,9.9000000000,0,0,8.1,12,"Opsono-5, Month 9 (N= 133, 135)",Synflorix I Group,unique
+4020,NCT00307034,6B,OPA,468.5,0,0,311.6,704.3,"Opsono-6B, Month 10 (N=132, 103)",Synflorix II Group,unique
+4021,NCT00307034,7F,OPA,1843.4000000,0,0,1494.2,2274.1,"Opsono-7F, Month 10 (N=128, 109)",Synflorix I Group,unique
+4022,NCT00307034,23F,GMC,0.3200000000,0,0,0.26,0.4,"Anti-23F, Month 9 (N= 151, 148)",Synflorix I Group,unique
+4023,NCT00307034,18C,GMC,1.2600000000,0,0,1.06,1.51,"Anti-18C, Month 3 (N= 152, 153)",Synflorix I Group,unique
+4024,NCT00307034,1,GMC,0.2999999999,0,0,0.26,0.34,"Anti-1, Month 9 (N= 149, 147)",Synflorix II Group,unique
+4025,NCT00307034,4,GMC,1.7099999999,0,0,1.47,1.99,"Anti-4, Month 3 (N= 153, 153)",Synflorix II Group,unique
+4026,NCT00307034,6B,GMC,0.4400000000,0,0,0.36,0.54,"Anti-6B, Month 9 (N= 154, 148)",Synflorix II Group,unique
+4027,NCT00307034,4,GMC,0.6400000000,0,0,0.56,0.73,"Anti-4, Month 9 (N= 152, 149)",Synflorix II Group,unique
+4028,NCT00307034,5,GMC,1.8500000000,0,0,1.63,2.1,"Anti-5, Month 3 (N= 152, 149)",Synflorix II Group,unique
+4029,NCT00307034,19F,GMC,1.6999999999,0,0,1.41,2.04,"Anti-19F, Month 9 (N= 153, 149)",Synflorix II Group,unique
+4030,NCT00307034,14,GMC,1.5300000000,0,0,1.27,1.85,"Anti-14, Month 9 (N= 151, 149)",Synflorix II Group,unique
+4031,NCT00307034,23F,GMC,2.7799999999,0,0,2.31,3.35,"Anti-23F, Month 10 (N=154, 147)",Synflorix II Group,unique
+4032,NCT00307034,6B,GMC,0.1900000000,0,0,0.15,0.24,"Anti-6B, Month 3 (N= 149, 149)",Synflorix I Group,unique
+4033,NCT00307034,9V,GMC,2.9500000000,0,0,2.59,3.37,"Anti-9V, Month 10 (N=156, 147)",Synflorix I Group,unique
+4034,NCT00307034,6B,GMC,1.1200000000,0,0,0.88,1.41,"Anti-6B, Month 10 (N=156, 147)",Synflorix I Group,unique
+4035,NCT00307034,14,GMC,1.7199999999,0,0,1.45,2.05,"Anti-14, Month 3 (N= 152, 152)",Synflorix I Group,unique
+4036,NCT00307034,18C,GMC,3.4199999999,0,0,2.87,4.07,"Anti-18C, Month 3 (N= 152, 153)",Synflorix II Group,unique
+4037,NCT00307034,23F,GMC,0.5200000000,0,0,0.42,0.63,"Anti-23F, Month 3 (N= 153, 152)",Synflorix II Group,unique
+4038,NCT00307034,19F,GMC,6.9500000000,0,0,5.92,8.17,"Anti-19F, Month 10 (N=156, 147)",Synflorix II Group,unique
+4039,NCT00307034,23F,GMC,2.4100000000,0,0,1.98,2.94,"Anti-23F, Month 10 (N=154, 147)",Synflorix I Group,unique
+4040,NCT00307034,18C,GMC,1.1399999999,0,0,0.96,1.35,"Anti-18C, Month 9 (N= 154, 149)",Synflorix II Group,unique
+4041,NCT00307034,23F,GMC,0.4400000000,0,0,0.36,0.54,"Anti-23F, Month 9 (N= 151, 148)",Synflorix II Group,unique
+4042,NCT00307034,9V,GMC,1.4699999999,0,0,1.29,1.68,"Anti-9V, Month 3 (N= 152, 153)",Synflorix II Group,unique
+4043,NCT00307034,1,GMC,1.2299999999,0,0,1.07,1.42,"Anti-1, Month 3 (N= 153, 151)",Synflorix II Group,unique
+4044,NCT00307034,9V,GMC,0.9200000000,0,0,0.81,1.05,"Anti-9V, Month 3 (N= 152, 153)",Synflorix I Group,unique
+4045,NCT00307034,5,GMC,0.5899999999,0,0,0.51,0.68,"Anti-5, Month 9 (N= 148, 149)",Synflorix II Group,unique
+4046,NCT00307034,19F,GMC,2.4300000000,0,0,1.97,2.98,"Anti-19F, Month 3 (N= 152, 152)",Synflorix I Group,unique
+4047,NCT00307034,19F,GMC,4.4299999999,0,0,3.6,5.45,"Anti-19F, Month 3 (N= 152, 152)",Synflorix II Group,unique
+4048,NCT00307034,6B,GMC,1.8500000000,0,0,1.54,2.22,"Anti-6B, Month 10 (N=156, 147)",Synflorix II Group,unique
+4049,NCT00307034,5,GMC,1.3200000000,0,0,1.14,1.52,"Anti-5, Month 3 (N= 152, 149)",Synflorix I Group,unique
+4050,NCT00307034,14,GMC,4.1900000000,0,0,3.62,4.85,"Anti-14, Month 10 (N=156, 147)",Synflorix I Group,unique
+4051,NCT00307034,4,GMC,3.0600000000,0,0,2.68,3.49,"Anti-4, Month 10 (N=155, 147)",Synflorix I Group,unique
+4052,NCT00307034,19F,GMC,5.5800000000,0,0,4.65,6.69,"Anti-19F, Month 10 (N=156, 147)",Synflorix I Group,unique
+4053,NCT00307034,9V,GMC,3.9700000000,0,0,3.49,4.5,"Anti-9V, Month 10 (N=156, 147)",Synflorix II Group,unique
+4054,NCT00307034,1,GMC,1.8799999999,0,0,1.62,2.17,"Anti-1, Month 10 (N=156, 147)",Synflorix II Group,unique
+4055,NCT00307034,7F,GMC,1.2800000000,0,0,1.13,1.46,"Anti-7F, Month 3 (N= 153, 152)",Synflorix I Group,unique
+4056,NCT00307034,23F,GMC,0.3800000000,0,0,0.3,0.47,"Anti-23F, Month 3 (N= 153, 152)",Synflorix I Group,unique
+4057,NCT00307034,1,GMC,1.8500000000,0,0,1.59,2.15,"Anti-1, Month 10 (N=156, 147)",Synflorix I Group,unique
+4058,NCT00307034,19F,GMC,1.0400000000,0,0,0.87,1.25,"Anti-19F, Month 9 (N= 153, 149)",Synflorix I Group,unique
+4059,NCT00307034,5,GMC,0.4299999999,0,0,0.37,0.5,"Anti-5, Month 9 (N= 148, 149)",Synflorix I Group,unique
+4060,NCT00307034,9V,GMC,0.5200000000,0,0,0.46,0.6,"Anti-9V, Month 9 (N= 153, 149)",Synflorix I Group,unique
+4061,NCT00307034,7F,GMC,2.8100000000,0,0,2.51,3.15,"Anti-7F, Month 10 (N=156, 147)",Synflorix I Group,unique
+4062,NCT00307034,18C,GMC,6.2400000000,0,0,5.43,7.18,"Anti-18C, Month 10 (N=156, 147)",Synflorix I Group,unique
+4063,NCT00307034,5,GMC,2.6499999999,0,0,2.31,3.03,"Anti-5, Month 10 (N=155, 147)",Synflorix I Group,unique
+4064,NCT00307034,1,GMC,0.2099999999,0,0,0.19,0.24,"Anti-1, Month 9 (N= 149, 147)",Synflorix I Group,unique
+4065,NCT00307034,18C,GMC,0.5899999999,0,0,0.5,0.69,"Anti-18C, Month 9 (N= 154, 149)",Synflorix I Group,unique
+4066,NCT00307034,6B,GMC,0.3099999999,0,0,0.25,0.38,"Anti-6B, Month 3 (N= 149, 149)",Synflorix II Group,unique
+4067,NCT00307034,7F,GMC,0.5500000000,0,0,0.49,0.63,"Anti-7F, Month 9 (N= 151, 149)",Synflorix I Group,unique
+4068,NCT00307034,7F,GMC,2.1400000000,0,0,1.9,2.4,"Anti-7F, Month 3 (N= 153, 152)",Synflorix II Group,unique
+4069,NCT00307034,7F,GMC,0.9200000000,0,0,0.81,1.05,"Anti-7F, Month 9 (N= 151, 149)",Synflorix II Group,unique
+4070,NCT00307034,14,GMC,5.4699999999,0,0,4.68,6.4,"Anti-14, Month 10 (N=156, 147)",Synflorix II Group,unique
+4071,NCT00307034,9V,GMC,0.8699999999,0,0,0.77,0.99,"Anti-9V, Month 9 (N= 153, 149)",Synflorix II Group,unique
+4072,NCT00307034,18C,GMC,7.2000000000,0,0,6.08,8.52,"Anti-18C, Month 10 (N=156, 147)",Synflorix II Group,unique
+4073,NCT00307034,1,GMC,1.0300000000,0,0,0.9,1.18,"Anti-1, Month 3 (N= 153, 151)",Synflorix I Group,unique
+4074,NCT00307034,14,GMC,0.7700000000,0,0,0.64,0.93,"Anti-14, Month 9 (N= 151, 149)",Synflorix I Group,unique
+4075,NCT00307034,4,GMC,3.4700000000,0,0,3.03,3.98,"Anti-4, Month 10 (N=155, 147)",Synflorix II Group,unique
+4076,NCT00307034,5,GMC,3.2099999999,0,0,2.81,3.67,"Anti-5, Month 10 (N=155, 147)",Synflorix II Group,unique
+4077,NCT00307034,14,GMC,2.5699999999,0,0,2.22,2.97,"Anti-14, Month 3 (N= 152, 152)",Synflorix II Group,unique
+4078,NCT00307034,4,GMC,0.4000000000,0,0,0.35,0.46,"Anti-4, Month 9 (N= 152, 149)",Synflorix I Group,unique
+4079,NCT00307034,4,GMC,1.3700000000,0,0,1.21,1.55,"Anti-4, Month 3 (N= 153, 153)",Synflorix I Group,unique
+4080,NCT00307034,6B,GMC,0.2800000000,0,0,0.23,0.35,"Anti-6B, Month 9 (N= 154, 148)",Synflorix I Group,unique
+4081,NCT00307034,7F,GMC,3.8799999999,0,0,3.45,4.37,"Anti-7F, Month 10 (N=156, 147)",Synflorix II Group,unique
+4446,NCT04382326,22F,GMC,0.0100000000,0,0,0.00,0.01,Serotype 22F,13vPnC,unique
+4457,NCT04382326,11A,GMC,1.3899999999,0,0,1.30,1.48,Serotype 11A,20vPnC,unique
+4458,NCT04382326,33F,GMC,1.4899999999,0,0,1.36,1.64,Serotype 33F,20vPnC,unique
+4459,NCT04382326,10A,GMC,1.2099999999,0,0,1.09,1.33,Serotype 10A,20vPnC,unique
+4462,NCT04382326,15B,GMC,4.4000000000,0,0,4.11,4.71,Serotype 15B,20vPnC,unique
+4463,NCT04382326,15B,GMC,0.0299999999,0,0,0.02,0.03,Serotype 15B,13vPnC,unique
+4465,NCT04382326,12F,GMC,0.5500000000,0,0,0.50,0.60,Serotype 12F,20vPnC,unique
+4470,NCT04382326,22F,GMC,3.7099999999,0,0,3.45,3.99,Serotype 22F,20vPnC,unique
+4473,NCT04382326,12F,GMC,0.0100000000,0,0,0.01,0.01,Serotype 12F,13vPnC,ambiguous_group_consistent_bounds
+4479,NCT04382326,33F,GMC,0.0200000000,0,0,0.01,0.02,Serotype 33F,13vPnC,unique
+4481,NCT04382326,10A,GMC,0.0100000000,0,0,0.01,0.01,Serotype 10A,13vPnC,ambiguous_group_consistent_bounds
+4483,NCT04382326,12F,OPA,28,0,0,24,33,Serotype 12F,13vPnC,unique
+4495,NCT04382326,10A,OPA,2558,0,0,1869,3501,Serotype 10A,20vPnC,unique
+4497,NCT04382326,22F,OPA,6797,0,0,5170,8936,Serotype 22F,20vPnC,unique
+4498,NCT04382326,22F,OPA,9,0,0,9,9,Serotype 22F,13vPnC,unique
+4499,NCT04382326,15B,OPA,18,0,0,16,22,Serotype 15B,13vPnC,unique
+4500,NCT04382326,11A,OPA,289,0,0,212,395,Serotype 11A,20vPnC,unique
+4503,NCT04382326,11A,OPA,50,0,0,46,55,Serotype 11A,13vPnC,unique
+4506,NCT04382326,33F,OPA,7388,0,0,4803,11365,Serotype 33F,20vPnC,unique
+4507,NCT04382326,33F,OPA,198,0,0,177,220,Serotype 33F,13vPnC,unique
+4513,NCT04382326,10A,OPA,37,0,0,33,42,Serotype 10A,13vPnC,unique
+4514,NCT04382326,15B,OPA,1560,0,0,1090,2233,Serotype 15B,20vPnC,unique
+4515,NCT04382326,12F,OPA,7677,0,0,5952,9901,Serotype 12F,20vPnC,unique
+4524,NCT04382326,22F,OPA,11077,0,0,7956,15422,Serotype 22F,20vPnC,unique
+4526,NCT04382326,11A,OPA,69,0,0,53,89,Serotype 11A,13vPnC,unique
+4527,NCT04382326,22F,OPA,15,0,0,11,20,Serotype 22F,13vPnC,unique
+4530,NCT04382326,33F,OPA,19216,0,0,13193,27990,Serotype 33F,20vPnC,unique
+4535,NCT04382326,33F,OPA,363,0,0,292,451,Serotype 33F,13vPnC,unique
+4536,NCT04382326,10A,OPA,3674,0,0,2746,4916,Serotype 10A,20vPnC,unique
+4540,NCT04382326,15B,OPA,23,0,0,17,30,Serotype 15B,13vPnC,unique
+4542,NCT04382326,15B,OPA,3035,0,0,2138,4308,Serotype 15B,20vPnC,unique
+4549,NCT04382326,12F,OPA,31,0,0,26,37,Serotype 12F,13vPnC,unique
+4550,NCT04382326,10A,OPA,57,0,0,44,74,Serotype 10A,13vPnC,unique
+4556,NCT04382326,11A,OPA,2728,0,0,1975,3768,Serotype 11A,20vPnC,unique
+4558,NCT04382326,12F,OPA,9320,0,0,7037,12343,Serotype 12F,20vPnC,unique
+4562,NCT04382326,11A,GMC,3.5299999999,0,0,3.31,3.78,Serotype 11A,20vPnC,unique
+4563,NCT04382326,33F,GMC,9.3100000000,0,0,8.71,9.96,Serotype 33F,20vPnC,unique
+4564,NCT04382326,12F,GMC,0.0100000000,0,0,0.01,0.01,Serotype 12F,13vPnC,ambiguous_group_consistent_bounds
+4568,NCT04382326,15B,GMC,12.589999999,0,0,11.78,13.45,Serotype 15B,20vPnC,unique
+4572,NCT04382326,33F,GMC,0.0100000000,0,0,0.01,0.01,Serotype 33F,13vPnC,unique
+4573,NCT04382326,10A,GMC,0.0100000000,0,0,0.01,0.01,Serotype 10A,13vPnC,ambiguous_group_consistent_bounds
+4580,NCT04382326,22F,GMC,0,0,0,0.00,0.01,Serotype 22F,13vPnC,unique
+4582,NCT04382326,12F,GMC,1.8500000000,0,0,1.73,1.99,Serotype 12F,20vPnC,unique
+4591,NCT04382326,10A,GMC,6.2199999999,0,0,5.75,6.72,Serotype 10A,20vPnC,unique
+4594,NCT04382326,22F,GMC,10.599999999,0,0,9.92,11.33,Serotype 22F,20vPnC,unique
+4601,NCT04382326,15B,GMC,0.0200000000,0,0,0.02,0.03,Serotype 15B,13vPnC,unique
+4603,NCT04546425,11A,OPA,7137,0,0,1036,49164,Serotype 11A,20vPnC: Russian Cohort,unique
+4606,NCT04546425,12F,OPA,241,0,0,16,3734,Serotype 12F,13vPnC: Russian Cohort,unique
+4607,NCT04546425,10A,OPA,2851,0,0,1309,6210,Serotype 10A,20vPnC: Russian Cohort,unique
+4609,NCT04546425,22F,OPA,1983,0,0,390,10085,Serotype 22F,20vPnC: Russian Cohort,unique
+4619,NCT04546425,10A,OPA,117,0,0,15,916,Serotype 10A,13vPnC: Russian Cohort,unique
+4624,NCT04546425,15B,OPA,822,0,0,42,16070,Serotype 15B,20vPnC: Russian Cohort,unique
+4626,NCT04546425,33F,OPA,5903,0,0,53,657862,Serotype 33F,20vPnC: Russian Cohort,unique
+4635,NCT04546425,22F,OPA,1635,0,0,165,16157,Serotype 22F,13vPnC: Russian Cohort,unique
+4637,NCT04546425,33F,OPA,3619,0,0,948,13817,Serotype 33F,13vPnC: Russian Cohort,unique
+4638,NCT04546425,15B,OPA,147,0,0,10,2214,Serotype 15B,13vPnC: Russian Cohort,unique
+4639,NCT04546425,12F,OPA,757,0,0,15,37522,Serotype 12F,20vPnC: Russian Cohort,unique
+4640,NCT04546425,11A,OPA,1789,0,0,36,89068,Serotype 11A,13vPnC: Russian Cohort,unique
+4644,NCT04546425,33F,GMC,0.4000000000,0,0,0.18,0.88,Serotype 33F,20vPnC: Russian Cohort,unique
+4654,NCT04546425,11A,GMC,0.8299999999,0,0,0.43,1.60,Serotype 11A,20vPnC: Russian Cohort,unique
+4655,NCT04546425,10A,GMC,0.0400000000,0,0,0.01,0.10,Serotype 10A,13vPnC: Russian Cohort,unique
+4660,NCT04546425,10A,GMC,0.3099999999,0,0,0.10,0.94,Serotype 10A,20vPnC: Russian Cohort,unique
+4675,NCT04546425,11A,GMC,0.0400000000,0,0,0.02,0.09,Serotype 11A,13vPnC: Russian Cohort,unique
+4676,NCT04546425,12F,GMC,0.0599999999,0,0,0.03,0.11,Serotype 12F,20vPnC: Russian Cohort,unique
+4677,NCT04546425,15B,GMC,0.1600000000,0,0,0.05,0.50,Serotype 15B,13vPnC: Russian Cohort,unique
+4678,NCT04546425,22F,GMC,0.4799999999,0,0,0.16,1.47,Serotype 22F,20vPnC: Russian Cohort,unique
+4679,NCT04546425,33F,GMC,0.0700000000,0,0,0.03,0.16,Serotype 33F,13vPnC: Russian Cohort,unique
+4680,NCT04546425,15B,GMC,1.1899999999,0,0,0.46,3.05,Serotype 15B,20vPnC: Russian Cohort,unique
+4683,NCT04546425,22F,GMC,0,0,0,0.00,0.00,Serotype 22F,13vPnC: Primary Study Population,unique
+4690,NCT04546425,15B,GMC,0.0200000000,0,0,0.02,0.03,Serotype 15B,13vPnC: Primary Study Population,unique
+4691,NCT04546425,10A,GMC,4.8600000000,0,0,4.41,5.36,Serotype 10A,20vPnC: Primary Study Population,unique
+4692,NCT04546425,22F,GMC,9.2699999999,0,0,8.52,10.08,Serotype 22F,20vPnC: Primary Study Population,unique
+4700,NCT04546425,15B,GMC,13.089999999,0,0,12.10,14.15,Serotype 15B,20vPnC: Primary Study Population,unique
+4703,NCT04546425,33F,GMC,0.0100000000,0,0,0.01,0.01,Serotype 33F,13vPnC: Primary Study Population,unique
+4706,NCT04546425,12F,GMC,0.0100000000,0,0,0.01,0.01,Serotype 12F,13vPnC: Primary Study Population,ambiguous_group_consistent_bounds
+4707,NCT04546425,11A,GMC,3.7400000000,0,0,3.44,4.07,Serotype 11A,20vPnC: Primary Study Population,unique
+4712,NCT04546425,33F,GMC,6.3700000000,0,0,5.83,6.95,Serotype 33F,20vPnC: Primary Study Population,unique
+4716,NCT04546425,10A,GMC,0.0100000000,0,0,0.01,0.01,Serotype 10A,13vPnC: Primary Study Population,unique
+4717,NCT04546425,12F,GMC,1.8600000000,0,0,1.71,2.01,Serotype 12F,20vPnC: Primary Study Population,unique
+4724,NCT04546425,11A,OPA,3537,0,0,863,14497,Serotype 11A,20vPnC: Russian Cohort,unique
+4732,NCT04546425,12F,OPA,698,0,0,77,6301,Serotype 12F,20vPnC: Russian Cohort,unique
+4734,NCT04546425,22F,OPA,499,0,0,28,8837,Serotype 22F,13vPnC: Russian Cohort,unique
+4736,NCT04546425,11A,OPA,2717,0,0,470,15716,Serotype 11A,13vPnC: Russian Cohort,unique
+4740,NCT04546425,15B,OPA,142,0,0,9,2269,Serotype 15B,20vPnC: Russian Cohort,unique
+4741,NCT04546425,33F,OPA,3508,0,0,349,35250,Serotype 33F,20vPnC: Russian Cohort,unique
+4743,NCT04546425,10A,OPA,232,0,0,8,6478,Serotype 10A,13vPnC: Russian Cohort,unique
+4748,NCT04546425,22F,OPA,413,0,0,32,5406,Serotype 22F,20vPnC: Russian Cohort,unique
+4750,NCT04546425,10A,OPA,559,0,0,50,6233,Serotype 10A,20vPnC: Russian Cohort,unique
+4751,NCT04546425,33F,OPA,3961,0,0,706,22238,Serotype 33F,13vPnC: Russian Cohort,unique
+4754,NCT04546425,12F,OPA,198,0,0,41,960,Serotype 12F,13vPnC: Russian Cohort,unique
+4760,NCT04546425,15B,OPA,242,0,0,18,3267,Serotype 15B,13vPnC: Russian Cohort,unique
+4762,NCT01616459,19A,GMC,1.1100000000,0,0,0.91,1.35,ANTI-19A (M11),Synflorix Group,unique
+4763,NCT01616459,14,GMC,5.75,0,0,5.07,6.51,ANTI-14 (M11),Synflorix Group,unique
+4764,NCT01616459,1,GMC,2.25,0,0,2.01,2.53,ANTI-1 (M11),Synflorix Group,unique
+4765,NCT01616459,23F,GMC,2.9799999999,0,0,2.65,3.35,ANTI-23F (M11),Synflorix Group,unique
+4766,NCT01616459,7F,GMC,6.3399999999,0,0,5.80,6.95,ANTI-7F (M11),Prevnar13 Group,unique
+4767,NCT01616459,14,GMC,10.050000000,0,0,8.97,11.25,ANTI-14 (M11),Prevnar13 Group,unique
+4768,NCT01616459,9V,GMC,5.8300000000,0,0,5.26,6.46,ANTI-9V (M11),Prevnar13 Group,unique
+4769,NCT01616459,6B,GMC,2.5299999999,0,0,2.24,2.86,ANTI-6B (M11),Synflorix Group,unique
+4770,NCT01616459,7F,GMC,4.3099999999,0,0,3.91,4.75,ANTI-7F (M11),Synflorix Group,unique
+4771,NCT01616459,23F,GMC,6.4900000000,0,0,5.69,7.39,ANTI-23F (M11),Prevnar13 Group,unique
+4772,NCT01616459,5,GMC,6.8399999999,0,0,6.12,7.66,ANTI-5 (M11),Prevnar13 Group,unique
+4773,NCT01616459,1,GMC,3.8399999999,0,0,3.50,4.22,ANTI-1 (M11),Prevnar13 Group,unique
+4774,NCT01616459,18C,GMC,8,0,0,7.06,9.06,ANTI-18C (M11),Synflorix Group,unique
+4775,NCT01616459,18C,GMC,6.0099999999,0,0,5.45,6.63,ANTI-18C (M11),Prevnar13 Group,unique
+4776,NCT01616459,4,GMC,4.0599999999,0,0,3.70,4.45,ANTI-4 (M11),Synflorix Group,unique
+4777,NCT01616459,19A,GMC,7.0599999999,0,0,6.25,7.98,ANTI-19A (M11),Prevnar13 Group,unique
+4778,NCT01616459,19F,GMC,6.4000000000,0,0,5.77,7.11,ANTI-19F (M11),Prevnar13 Group,unique
+4779,NCT01616459,3,GMC,1.6799999999,0,0,1.53,1.85,ANTI-3 (M11),Prevnar13 Group,unique
+4780,NCT01616459,9V,GMC,3.6800000000,0,0,3.32,4.09,ANTI-9V (M11),Synflorix Group,unique
+4781,NCT01616459,6B,GMC,3.7999999999,0,0,3.34,4.33,ANTI-6B (M11),Prevnar13 Group,unique
+4782,NCT01616459,19F,GMC,8.2200000000,0,0,7.40,9.13,ANTI-19F (M11),Synflorix Group,unique
+4783,NCT01616459,5,GMC,3.0499999999,0,0,2.75,3.38,ANTI-5 (M11),Synflorix Group,unique
+4784,NCT01616459,4,GMC,3.8599999999,0,0,3.43,4.35,ANTI-4 (M11),Prevnar13 Group,unique

@@ -1,0 +1,105 @@
+assay,serotype,vaccine,dose_description,gmc_or_gmt,pct_threshold_responders,threshold,N,sigma_ln,se_ln,derived_lower_limit,derived_upper_limit,status
+GMC,19A,PCV13 (Walvax),1m post boost child,13.34,100.0,0.35,475,,,NA,NA,LEFT_NA_ceiling_or_floor
+GMC,5,PCV7,1m post boost child,0.16,40.04,0.35,487,3.1023,0.1406,0.12,0.21,DERIVED_lognormal
+GMC,3,PCV13 (Walvax),1m post boost child,1.89,99.16,0.35,475,0.7053,0.0324,1.77,2.01,DERIVED_lognormal
+GMC,18C,PCV13 (Walvax),1m post boost child,2.44,99.79,0.35,475,0.6783,0.0311,2.30,2.59,DERIVED_lognormal
+GMC,9V,PCV7,1m post boost child,3.87,100.0,0.35,487,,,NA,NA,LEFT_NA_ceiling_or_floor
+GMC,6A,PCV7,1m post boost child,3.8,97.74,0.35,487,1.1908,0.0540,3.42,4.22,DERIVED_lognormal
+GMC,6B,PCV13 (Walvax),1m post boost child,10.01,100.0,0.35,475,,,NA,NA,LEFT_NA_ceiling_or_floor
+GMC,7F,PCV13 (Walvax),1m post boost child,4.59,100.0,0.35,475,,,NA,NA,LEFT_NA_ceiling_or_floor
+GMC,18C,PCV7,1m post boost child,3.9,99.59,0.35,487,0.9119,0.0413,3.60,4.23,DERIVED_lognormal
+GMC,1,PCV13 (Walvax),1m post boost child,2.79,99.79,0.35,475,0.7251,0.0333,2.61,2.98,DERIVED_lognormal
+GMC,7F,PCV7,1m post boost child,0.31,66.74,0.35,487,,,NA,NA,LEFT_NA_invalid_sign
+GMC,23F,PCV7,1m post boost child,10.81,99.79,0.35,487,1.1983,0.0543,9.72,12.02,DERIVED_lognormal
+GMC,6A,PCV13 (Walvax),1m post boost child,5.82,99.58,0.35,475,1.0666,0.0489,5.29,6.41,DERIVED_lognormal
+GMC,19F,PCV13 (Walvax),1m post boost child,12.18,100.0,0.35,475,,,NA,NA,LEFT_NA_ceiling_or_floor
+GMC,4,PCV13 (Walvax),1m post boost child,3.19,99.79,0.35,475,0.7719,0.0354,2.98,3.42,DERIVED_lognormal
+GMC,5,PCV13 (Walvax),1m post boost child,1.58,97.89,0.35,475,0.7419,0.0340,1.48,1.69,DERIVED_lognormal
+GMC,19A,PCV7,1m post boost child,3.0,99.79,0.35,487,0.7505,0.0340,2.81,3.21,DERIVED_lognormal
+GMC,14,PCV7,1m post boost child,17.89,100.0,0.35,487,,,NA,NA,LEFT_NA_ceiling_or_floor
+GMC,4,PCV7,1m post boost child,4.27,99.79,0.35,487,0.8738,0.0396,3.95,4.61,DERIVED_lognormal
+GMC,19F,PCV7,1m post boost child,7.84,100.0,0.35,487,,,NA,NA,LEFT_NA_ceiling_or_floor
+GMC,14,PCV13 (Walvax),1m post boost child,13.97,99.79,0.35,475,1.2878,0.0591,12.44,15.69,DERIVED_lognormal
+GMC,9V,PCV13 (Walvax),1m post boost child,4.22,100.0,0.35,475,,,NA,NA,LEFT_NA_ceiling_or_floor
+GMC,3,PCV7,1m post boost child,1.02,92.2,0.35,487,0.7540,0.0342,0.95,1.09,DERIVED_lognormal
+GMC,6B,PCV7,1m post boost child,11.7,99.79,0.35,487,1.2259,0.0556,10.49,13.05,DERIVED_lognormal
+GMC,1,PCV7,1m post boost child,0.67,91.38,0.35,487,0.4759,0.0216,0.64,0.70,DERIVED_lognormal
+GMC,23F,PCV13 (Walvax),1m post boost child,6.9,100.0,0.35,475,,,NA,NA,LEFT_NA_ceiling_or_floor
+GMC,18C,PCV13 (Walvax),1m post primary child,2.91,98.3,0.35,471,0.9990,0.0460,2.66,3.18,DERIVED_lognormal
+GMC,6A,PCV7,1m post primary child,0.58,78.44,0.35,487,0.6417,0.0291,0.55,0.61,DERIVED_lognormal
+GMC,14,PCV7,1m post primary child,16.53,99.79,0.35,487,1.3466,0.0610,14.67,18.63,DERIVED_lognormal
+GMC,1,PCV7,1m post primary child,0.3,57.49,0.35,487,,,NA,NA,LEFT_NA_invalid_sign
+GMC,14,PCV13 (Walvax),1m post primary child,10.38,100.0,0.35,471,,,NA,NA,LEFT_NA_ceiling_or_floor
+GMC,23F,PCV13 (Walvax),1m post primary child,2.93,97.24,0.35,471,1.1082,0.0511,2.65,3.24,DERIVED_lognormal
+GMC,3,PCV7,1m post primary child,0.33,45.17,0.35,487,0.4848,0.0220,0.32,0.34,DERIVED_lognormal
+GMC,19A,PCV7,1m post primary child,1.06,97.13,0.35,487,0.5831,0.0264,1.01,1.12,DERIVED_lognormal
+GMC,6A,PCV13 (Walvax),1m post primary child,1.96,96.82,0.35,471,0.9287,0.0428,1.80,2.13,DERIVED_lognormal
+GMC,5,PCV7,1m post primary child,0.05,16.63,0.35,487,2.0084,0.0910,0.04,0.06,DERIVED_lognormal
+GMC,7F,PCV7,1m post primary child,0.05,24.23,0.35,487,2.7842,0.1262,0.04,0.06,DERIVED_lognormal
+GMC,6B,PCV13 (Walvax),1m post primary child,1.25,90.45,0.35,471,0.9735,0.0449,1.14,1.36,DERIVED_lognormal
+GMC,4,PCV13 (Walvax),1m post primary child,4.51,100.0,0.35,471,,,NA,NA,LEFT_NA_ceiling_or_floor
+GMC,18C,PCV7,1m post primary child,4.8,97.74,0.35,487,1.3074,0.0592,4.27,5.39,DERIVED_lognormal
+GMC,3,PCV13 (Walvax),1m post primary child,1.67,98.09,0.35,471,0.7539,0.0347,1.56,1.79,DERIVED_lognormal
+GMC,5,PCV13 (Walvax),1m post primary child,1.88,98.51,0.35,471,0.7737,0.0357,1.75,2.02,DERIVED_lognormal
+GMC,9V,PCV13 (Walvax),1m post primary child,3.72,99.15,0.35,471,0.9903,0.0456,3.40,4.07,DERIVED_lognormal
+GMC,1,PCV13 (Walvax),1m post primary child,2.15,99.58,0.35,471,0.6888,0.0317,2.02,2.29,DERIVED_lognormal
+GMC,6B,PCV7,1m post primary child,3.52,98.97,0.35,487,0.9970,0.0452,3.22,3.85,DERIVED_lognormal
+GMC,7F,PCV13 (Walvax),1m post primary child,5.47,99.58,0.35,471,1.0431,0.0481,4.98,6.01,DERIVED_lognormal
+GMC,19F,PCV13 (Walvax),1m post primary child,6.95,100.0,0.35,471,,,NA,NA,LEFT_NA_ceiling_or_floor
+GMC,4,PCV7,1m post primary child,7.79,99.18,0.35,487,1.2928,0.0586,6.94,8.74,DERIVED_lognormal
+GMC,19F,PCV7,1m post primary child,9.0,100.0,0.35,487,,,NA,NA,LEFT_NA_ceiling_or_floor
+GMC,23F,PCV7,1m post primary child,4.44,98.56,0.35,487,1.1620,0.0527,4.00,4.92,DERIVED_lognormal
+GMC,9V,PCV7,1m post primary child,4.47,99.79,0.35,487,0.8898,0.0403,4.13,4.84,DERIVED_lognormal
+GMC,19A,PCV13 (Walvax),1m post primary child,3.85,100.0,0.35,471,,,NA,NA,LEFT_NA_ceiling_or_floor
+OPA,19A,PCV7,1m post primary child,11.5,44.79,8.0,96,,,NA,NA,LEFT_NA_invalid_sign
+OPA,1,PCV7,1m post primary child,2.0,0.0,8.0,96,,,NA,NA,LEFT_NA_ceiling_or_floor
+OPA,9V,PCV13 (Walvax),1m post primary child,1922.48,100.0,8.0,93,,,NA,NA,LEFT_NA_ceiling_or_floor
+OPA,3,PCV13 (Walvax),1m post primary child,511.7,96.77,8.0,93,2.2501,0.2333,323.89,808.40,DERIVED_lognormal
+OPA,3,PCV7,1m post primary child,2.8,15.63,8.0,96,1.0397,0.1061,2.27,3.45,DERIVED_lognormal
+OPA,19F,PCV7,1m post primary child,540.56,97.92,8.0,96,2.0678,0.2110,357.44,817.50,DERIVED_lognormal
+OPA,18C,PCV13 (Walvax),1m post primary child,1356.26,100.0,8.0,93,,,NA,NA,LEFT_NA_ceiling_or_floor
+OPA,5,PCV7,1m post primary child,2.24,4.17,8.0,96,0.7353,0.0750,1.93,2.59,DERIVED_lognormal
+OPA,6A,PCV7,1m post primary child,275.54,80.21,8.0,96,4.1681,0.4254,119.70,634.30,DERIVED_lognormal
+OPA,5,PCV13 (Walvax),1m post primary child,450.24,98.92,8.0,93,1.7544,0.1819,315.20,643.13,DERIVED_lognormal
+OPA,4,PCV13 (Walvax),1m post primary child,1227.93,100.0,8.0,93,,,NA,NA,LEFT_NA_ceiling_or_floor
+OPA,19A,PCV13 (Walvax),1m post primary child,777.7,100.0,8.0,93,,,NA,NA,LEFT_NA_ceiling_or_floor
+OPA,14,PCV7,1m post primary child,5594.48,100.0,8.0,96,,,NA,NA,LEFT_NA_ceiling_or_floor
+OPA,6B,PCV7,1m post primary child,2928.36,98.96,8.0,96,2.5535,0.2606,1757.03,4880.55,DERIVED_lognormal
+OPA,23F,PCV13 (Walvax),1m post primary child,2090.78,95.7,8.0,93,3.2418,0.3362,1081.84,4040.69,DERIVED_lognormal
+OPA,18C,PCV7,1m post primary child,3129.49,98.96,8.0,96,2.5823,0.2636,1866.95,5245.83,DERIVED_lognormal
+OPA,7F,PCV13 (Walvax),1m post primary child,7741.1,100.0,8.0,93,,,NA,NA,LEFT_NA_ceiling_or_floor
+OPA,7F,PCV7,1m post primary child,12.76,37.5,8.0,96,,,NA,NA,LEFT_NA_invalid_sign
+OPA,6B,PCV13 (Walvax),1m post primary child,528.67,89.25,8.0,93,3.3800,0.3505,265.98,1050.81,DERIVED_lognormal
+OPA,6A,PCV13 (Walvax),1m post primary child,1079.96,97.85,8.0,93,2.4239,0.2513,659.87,1767.49,DERIVED_lognormal
+OPA,4,PCV7,1m post primary child,2291.32,100.0,8.0,96,,,NA,NA,LEFT_NA_ceiling_or_floor
+OPA,14,PCV13 (Walvax),1m post primary child,4511.21,100.0,8.0,93,,,NA,NA,LEFT_NA_ceiling_or_floor
+OPA,1,PCV13 (Walvax),1m post primary child,62.13,83.87,8.0,93,2.0723,0.2149,40.77,94.67,DERIVED_lognormal
+OPA,9V,PCV7,1m post primary child,1974.62,100.0,8.0,96,,,NA,NA,LEFT_NA_ceiling_or_floor
+OPA,23F,PCV7,1m post primary child,5939.64,98.96,8.0,96,2.8595,0.2918,3352.25,10524.06,DERIVED_lognormal
+OPA,19F,PCV13 (Walvax),1m post primary child,652.57,100.0,8.0,93,,,NA,NA,LEFT_NA_ceiling_or_floor
+OPA,6A,PCV7,1m post boost child,1562.59,92.78,8.0,97,3.6138,0.3669,761.23,3207.57,DERIVED_lognormal
+OPA,7F,PCV13 (Walvax),1m post boost child,7244.42,100.0,8.0,96,,,NA,NA,LEFT_NA_ceiling_or_floor
+OPA,19F,PCV7,1m post boost child,815.68,96.91,8.0,97,2.4760,0.2514,498.33,1335.12,DERIVED_lognormal
+OPA,19F,PCV13 (Walvax),1m post boost child,2359.26,100.0,8.0,96,,,NA,NA,LEFT_NA_ceiling_or_floor
+OPA,7F,PCV7,1m post boost child,41.47,52.58,8.0,97,,,NA,NA,LEFT_NA_unstable_near_50pct
+OPA,19A,PCV13 (Walvax),1m post boost child,5503.11,100.0,8.0,96,,,NA,NA,LEFT_NA_ceiling_or_floor
+OPA,19A,PCV7,1m post boost child,72.99,79.38,8.0,97,2.6973,0.2739,42.67,124.85,DERIVED_lognormal
+OPA,3,PCV13 (Walvax),1m post boost child,678.98,97.92,8.0,96,2.1797,0.2225,439.03,1050.08,DERIVED_lognormal
+OPA,14,PCV13 (Walvax),1m post boost child,7686.96,100.0,8.0,96,,,NA,NA,LEFT_NA_ceiling_or_floor
+OPA,1,PCV7,1m post boost child,2.28,4.12,8.0,97,0.7227,0.0734,1.97,2.63,DERIVED_lognormal
+OPA,6B,PCV7,1m post boost child,7564.42,97.94,8.0,97,3.3562,0.3408,3878.86,14751.88,DERIVED_lognormal
+OPA,18C,PCV13 (Walvax),1m post boost child,4173.73,100.0,8.0,96,,,NA,NA,LEFT_NA_ceiling_or_floor
+OPA,18C,PCV7,1m post boost child,5507.66,98.97,8.0,97,2.8224,0.2866,3140.76,9658.26,DERIVED_lognormal
+OPA,14,PCV7,1m post boost child,6221.93,100.0,8.0,97,,,NA,NA,LEFT_NA_ceiling_or_floor
+OPA,5,PCV7,1m post boost child,2.61,5.15,8.0,97,0.6870,0.0698,2.28,2.99,DERIVED_lognormal
+OPA,5,PCV13 (Walvax),1m post boost child,1375.13,100.0,8.0,96,,,NA,NA,LEFT_NA_ceiling_or_floor
+OPA,23F,PCV13 (Walvax),1m post boost child,4943.66,98.96,8.0,96,2.7801,0.2837,2834.81,8621.32,DERIVED_lognormal
+OPA,4,PCV13 (Walvax),1m post boost child,6182.37,100.0,8.0,96,,,NA,NA,LEFT_NA_ceiling_or_floor
+OPA,4,PCV7,1m post boost child,6208.15,100.0,8.0,97,,,NA,NA,LEFT_NA_ceiling_or_floor
+OPA,3,PCV7,1m post boost child,5.03,37.11,8.0,97,1.4107,0.1432,3.80,6.66,DERIVED_lognormal
+OPA,1,PCV13 (Walvax),1m post boost child,321.14,97.92,8.0,96,1.8122,0.1850,223.49,461.46,DERIVED_lognormal
+OPA,6A,PCV13 (Walvax),1m post boost child,3254.75,95.83,8.0,96,3.4705,0.3542,1625.59,6516.64,DERIVED_lognormal
+OPA,6B,PCV13 (Walvax),1m post boost child,2661.93,98.96,8.0,96,2.5123,0.2564,1610.41,4400.03,DERIVED_lognormal
+OPA,23F,PCV7,1m post boost child,16131.84,98.97,8.0,97,3.2865,0.3337,8387.55,31026.49,DERIVED_lognormal
+OPA,9V,PCV13 (Walvax),1m post boost child,6184.75,100.0,8.0,96,,,NA,NA,LEFT_NA_ceiling_or_floor
+OPA,9V,PCV7,1m post boost child,5484.79,100.0,8.0,97,,,NA,NA,LEFT_NA_ceiling_or_floor

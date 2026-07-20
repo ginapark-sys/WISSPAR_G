@@ -1,0 +1,5 @@
+line,nct_id,serotype,value,old_lower,old_upper,new_lower,new_upper,note
+1698,NCT00366678,1,0,0.0,0.0,NA,NA,"Source (ClinicalTrials.gov) reports 0.0/0.0/0.0 exactly - a genuine floor-effect value (7vPnC-primed group has no anti-serotype-1 response pre-boost), not a dropped CI. Per user decision 2026-07-20, converted to NA/NA rather than left as 0/0 since a bound equal to the point estimate carries no information and is visually indistinguishable from the placeholder convention."
+1737,NCT00366678,1,0,0.0,0.0,NA,NA,"Same as line 1698 (different group, same serotype/timepoint pattern)."
+1738,NCT00366678,1,0,0.0,0.0,NA,NA,"Same pattern, 1m post boost timepoint - group still has no anti-serotype-1 response since booster was also 7vPnC."
+4683,NCT04546425,22F,0,0.00,0.00,NA,NA,"Source reports 0.00/0.00/0.00 exactly (Dose 3, Primary Study Population) - same floor-effect pattern, converted to NA/NA per user decision."
