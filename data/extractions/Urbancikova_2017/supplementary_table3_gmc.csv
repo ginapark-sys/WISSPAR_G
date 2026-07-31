@@ -1,0 +1,157 @@
+serotype,timepoint,schedule,country,vaccine_group,group_total_n,n,gmc_value,gmc_lower_ci,gmc_upper_ci
+1,Month 0,3+1,Czech Republic,PHiD-CV,53,51,0.22,0.17,0.27
+1,Month 0,3+1,Czech Republic,PCV13,45,45,0.34,0.28,0.42
+1,Month 0,2+1,Slovakia,PHiD-CV,39,38,0.27,0.21,0.34
+1,Month 0,2+1,Slovakia,PCV13,49,49,0.53,0.45,0.63
+1,Month 1,3+1,Czech Republic,PHiD-CV,53,51,3.42,2.72,4.3
+1,Month 1,3+1,Czech Republic,PCV13,45,45,2.54,2.1,3.09
+1,Month 1,2+1,Slovakia,PHiD-CV,39,38,3.56,2.75,4.61
+1,Month 1,2+1,Slovakia,PCV13,49,49,4.31,3.57,5.2
+1,Month 12,3+1,Czech Republic,PHiD-CV,53,48,0.4,0.31,0.51
+1,Month 12,3+1,Czech Republic,PCV13,45,45,0.28,0.23,0.35
+1,Month 12,2+1,Slovakia,PHiD-CV,39,38,0.41,0.32,0.54
+1,Month 12,2+1,Slovakia,PCV13,49,49,0.44,0.37,0.52
+3,Month 0,3+1,Czech Republic,PHiD-CV,53,50,0.17,0.12,0.23
+3,Month 0,3+1,Czech Republic,PCV13,45,45,0.24,0.17,0.33
+3,Month 0,2+1,Slovakia,PHiD-CV,39,36,0.16,0.12,0.21
+3,Month 0,2+1,Slovakia,PCV13,49,49,0.35,0.26,0.47
+3,Month 1,3+1,Czech Republic,PHiD-CV,53,48,1.12,0.93,1.35
+3,Month 1,3+1,Czech Republic,PCV13,45,45,0.83,0.64,1.08
+3,Month 1,2+1,Slovakia,PHiD-CV,39,34,1.1,0.79,1.54
+3,Month 1,2+1,Slovakia,PCV13,49,47,1.17,0.9,1.51
+3,Month 12,3+1,Czech Republic,PHiD-CV,53,47,0.23,0.17,0.31
+3,Month 12,3+1,Czech Republic,PCV13,45,44,0.2,0.15,0.28
+3,Month 12,2+1,Slovakia,PHiD-CV,39,33,0.27,0.18,0.4
+3,Month 12,2+1,Slovakia,PCV13,49,47,0.25,0.19,0.33
+4,Month 0,3+1,Czech Republic,PHiD-CV,53,51,0.31,0.25,0.39
+4,Month 0,3+1,Czech Republic,PCV13,45,45,0.3,0.24,0.37
+4,Month 0,2+1,Slovakia,PHiD-CV,39,38,0.37,0.29,0.49
+4,Month 0,2+1,Slovakia,PCV13,49,49,0.36,0.3,0.43
+4,Month 1,3+1,Czech Republic,PHiD-CV,53,51,2.03,1.72,2.4
+4,Month 1,3+1,Czech Republic,PCV13,45,45,2.77,2.23,3.45
+4,Month 1,2+1,Slovakia,PHiD-CV,39,38,1.97,1.53,2.53
+4,Month 1,2+1,Slovakia,PCV13,49,49,2.58,2.1,3.17
+4,Month 12,3+1,Czech Republic,PHiD-CV,53,48,0.21,0.17,0.25
+4,Month 12,3+1,Czech Republic,PCV13,45,45,0.23,0.18,0.3
+4,Month 12,2+1,Slovakia,PHiD-CV,39,38,0.17,0.13,0.21
+4,Month 12,2+1,Slovakia,PCV13,49,49,0.25,0.2,0.31
+5,Month 0,3+1,Czech Republic,PHiD-CV,53,51,0.3,0.25,0.36
+5,Month 0,3+1,Czech Republic,PCV13,45,45,0.31,0.26,0.38
+5,Month 0,2+1,Slovakia,PHiD-CV,39,37,0.37,0.3,0.45
+5,Month 0,2+1,Slovakia,PCV13,49,49,0.34,0.29,0.4
+5,Month 1,3+1,Czech Republic,PHiD-CV,53,51,1.24,1.04,1.48
+5,Month 1,3+1,Czech Republic,PCV13,45,45,1.39,1.15,1.67
+5,Month 1,2+1,Slovakia,PHiD-CV,39,38,1.28,1.04,1.59
+5,Month 1,2+1,Slovakia,PCV13,49,49,1.65,1.34,2.03
+5,Month 12,3+1,Czech Republic,PHiD-CV,53,48,0.32,0.25,0.4
+5,Month 12,3+1,Czech Republic,PCV13,45,45,0.29,0.23,0.37
+5,Month 12,2+1,Slovakia,PHiD-CV,39,38,0.35,0.29,0.43
+5,Month 12,2+1,Slovakia,PCV13,49,49,0.33,0.28,0.4
+6A,Month 0,3+1,Czech Republic,PHiD-CV,53,51,0.27,0.2,0.35
+6A,Month 0,3+1,Czech Republic,PCV13,45,45,0.54,0.45,0.65
+6A,Month 0,2+1,Slovakia,PHiD-CV,39,38,0.24,0.17,0.34
+6A,Month 0,2+1,Slovakia,PCV13,49,49,0.68,0.54,0.86
+6A,Month 1,3+1,Czech Republic,PHiD-CV,53,51,6.29,4.38,9.04
+6A,Month 1,3+1,Czech Republic,PCV13,45,45,5.82,4.83,7.02
+6A,Month 1,2+1,Slovakia,PHiD-CV,39,37,4.6,2.87,7.37
+6A,Month 1,2+1,Slovakia,PCV13,49,49,7.75,6.27,9.58
+6A,Month 12,3+1,Czech Republic,PHiD-CV,53,48,0.9,0.64,1.26
+6A,Month 12,3+1,Czech Republic,PCV13,45,45,0.63,0.5,0.8
+6A,Month 12,2+1,Slovakia,PHiD-CV,39,38,0.87,0.64,1.18
+6A,Month 12,2+1,Slovakia,PCV13,49,49,1.15,0.91,1.45
+6B,Month 0,3+1,Czech Republic,PHiD-CV,53,51,0.71,0.58,0.88
+6B,Month 0,3+1,Czech Republic,PCV13,45,45,0.37,0.29,0.47
+6B,Month 0,2+1,Slovakia,PHiD-CV,39,38,0.53,0.4,0.71
+6B,Month 0,2+1,Slovakia,PCV13,49,49,0.24,0.19,0.31
+6B,Month 1,3+1,Czech Republic,PHiD-CV,53,51,13.07,10.15,16.83
+6B,Month 1,3+1,Czech Republic,PCV13,45,45,5.17,4.39,6.09
+6B,Month 1,2+1,Slovakia,PHiD-CV,39,38,10.25,7.28,14.42
+6B,Month 1,2+1,Slovakia,PCV13,49,48,5.17,4.02,6.66
+6B,Month 12,3+1,Czech Republic,PHiD-CV,53,48,1.18,0.87,1.6
+6B,Month 12,3+1,Czech Republic,PCV13,45,45,0.71,0.56,0.9
+6B,Month 12,2+1,Slovakia,PHiD-CV,39,38,1.06,0.8,1.41
+6B,Month 12,2+1,Slovakia,PCV13,49,49,0.85,0.67,1.1
+7F,Month 0,3+1,Czech Republic,PHiD-CV,53,51,0.68,0.54,0.85
+7F,Month 0,3+1,Czech Republic,PCV13,45,45,0.77,0.64,0.93
+7F,Month 0,2+1,Slovakia,PHiD-CV,39,38,0.64,0.51,0.8
+7F,Month 0,2+1,Slovakia,PCV13,49,49,0.72,0.58,0.88
+7F,Month 1,3+1,Czech Republic,PHiD-CV,53,51,3.34,2.83,3.93
+7F,Month 1,3+1,Czech Republic,PCV13,45,45,4.34,3.71,5.08
+7F,Month 1,2+1,Slovakia,PHiD-CV,39,38,2.78,2.26,3.42
+7F,Month 1,2+1,Slovakia,PCV13,49,49,4.36,3.55,5.36
+7F,Month 12,3+1,Czech Republic,PHiD-CV,53,48,0.6,0.5,0.73
+7F,Month 12,3+1,Czech Republic,PCV13,45,45,0.69,0.56,0.85
+7F,Month 12,2+1,Slovakia,PHiD-CV,39,38,0.48,0.4,0.57
+7F,Month 12,2+1,Slovakia,PCV13,49,49,0.71,0.58,0.87
+9V,Month 0,3+1,Czech Republic,PHiD-CV,53,51,0.31,0.24,0.39
+9V,Month 0,3+1,Czech Republic,PCV13,45,45,0.26,0.21,0.31
+9V,Month 0,2+1,Slovakia,PHiD-CV,39,38,0.26,0.21,0.33
+9V,Month 0,2+1,Slovakia,PCV13,49,49,0.29,0.23,0.38
+9V,Month 1,3+1,Czech Republic,PHiD-CV,53,51,2.08,1.75,2.48
+9V,Month 1,3+1,Czech Republic,PCV13,45,45,1.72,1.34,2.2
+9V,Month 1,2+1,Slovakia,PHiD-CV,39,38,2.11,1.69,2.63
+9V,Month 1,2+1,Slovakia,PCV13,49,49,2.18,1.76,2.71
+9V,Month 12,3+1,Czech Republic,PHiD-CV,53,47,0.35,0.27,0.47
+9V,Month 12,3+1,Czech Republic,PCV13,45,45,0.25,0.2,0.33
+9V,Month 12,2+1,Slovakia,PHiD-CV,39,38,0.31,0.25,0.39
+9V,Month 12,2+1,Slovakia,PCV13,49,49,0.37,0.29,0.48
+14,Month 0,3+1,Czech Republic,PHiD-CV,53,51,1.84,1.38,2.45
+14,Month 0,3+1,Czech Republic,PCV13,45,45,1.91,1.46,2.49
+14,Month 0,2+1,Slovakia,PHiD-CV,39,38,1.83,1.28,2.61
+14,Month 0,2+1,Slovakia,PCV13,49,49,1.92,1.39,2.65
+14,Month 1,3+1,Czech Republic,PHiD-CV,53,51,5.69,4.64,6.97
+14,Month 1,3+1,Czech Republic,PCV13,45,45,7.6,5.93,9.75
+14,Month 1,2+1,Slovakia,PHiD-CV,39,38,5.94,4.75,7.45
+14,Month 1,2+1,Slovakia,PCV13,49,49,9.16,7.4,11.34
+14,Month 12,3+1,Czech Republic,PHiD-CV,53,48,0.87,0.66,1.13
+14,Month 12,3+1,Czech Republic,PCV13,45,45,0.93,0.67,1.29
+14,Month 12,2+1,Slovakia,PHiD-CV,39,38,0.94,0.69,1.28
+14,Month 12,2+1,Slovakia,PCV13,49,49,1.17,0.91,1.49
+18C,Month 0,3+1,Czech Republic,PHiD-CV,53,50,0.46,0.34,0.62
+18C,Month 0,3+1,Czech Republic,PCV13,45,44,0.23,0.18,0.3
+18C,Month 0,2+1,Slovakia,PHiD-CV,39,38,0.43,0.32,0.58
+18C,Month 0,2+1,Slovakia,PCV13,49,49,0.28,0.22,0.35
+18C,Month 1,3+1,Czech Republic,PHiD-CV,53,51,2.67,2.13,3.34
+18C,Month 1,3+1,Czech Republic,PCV13,45,45,2.0,1.62,2.47
+18C,Month 1,2+1,Slovakia,PHiD-CV,39,38,2.23,1.73,2.88
+18C,Month 1,2+1,Slovakia,PCV13,49,49,2.22,1.83,2.7
+18C,Month 12,3+1,Czech Republic,PHiD-CV,53,48,0.28,0.22,0.35
+18C,Month 12,3+1,Czech Republic,PCV13,45,45,0.21,0.16,0.29
+18C,Month 12,2+1,Slovakia,PHiD-CV,39,38,0.3,0.22,0.39
+18C,Month 12,2+1,Slovakia,PCV13,49,49,0.32,0.26,0.4
+19A,Month 0,3+1,Czech Republic,PHiD-CV,53,51,0.33,0.25,0.42
+19A,Month 0,3+1,Czech Republic,PCV13,45,45,0.62,0.45,0.86
+19A,Month 0,2+1,Slovakia,PHiD-CV,39,38,0.38,0.25,0.57
+19A,Month 0,2+1,Slovakia,PCV13,49,49,0.67,0.55,0.83
+19A,Month 1,3+1,Czech Republic,PHiD-CV,53,51,9.66,6.7,13.94
+19A,Month 1,3+1,Czech Republic,PCV13,45,45,9.72,7.67,12.32
+19A,Month 1,2+1,Slovakia,PHiD-CV,39,38,9.45,6.8,13.15
+19A,Month 1,2+1,Slovakia,PCV13,49,49,8.22,6.47,10.45
+19A,Month 12,3+1,Czech Republic,PHiD-CV,53,48,1.3,0.92,1.82
+19A,Month 12,3+1,Czech Republic,PCV13,45,45,1.11,0.78,1.58
+19A,Month 12,2+1,Slovakia,PHiD-CV,39,38,1.11,0.86,1.44
+19A,Month 12,2+1,Slovakia,PCV13,49,49,1.31,1.0,1.72
+19F,Month 0,3+1,Czech Republic,PHiD-CV,53,51,1.83,1.37,2.44
+19F,Month 0,3+1,Czech Republic,PCV13,45,45,0.73,0.59,0.9
+19F,Month 0,2+1,Slovakia,PHiD-CV,39,38,2.03,1.5,2.74
+19F,Month 0,2+1,Slovakia,PCV13,49,49,0.95,0.8,1.13
+19F,Month 1,3+1,Czech Republic,PHiD-CV,53,51,18.35,13.7,24.57
+19F,Month 1,3+1,Czech Republic,PCV13,45,45,7.65,6.22,9.4
+19F,Month 1,2+1,Slovakia,PHiD-CV,39,38,16.49,11.94,22.77
+19F,Month 1,2+1,Slovakia,PCV13,49,49,9.36,7.56,11.6
+19F,Month 12,3+1,Czech Republic,PHiD-CV,53,48,1.9,1.34,2.7
+19F,Month 12,3+1,Czech Republic,PCV13,45,45,0.91,0.68,1.21
+19F,Month 12,2+1,Slovakia,PHiD-CV,39,38,1.72,1.28,2.3
+19F,Month 12,2+1,Slovakia,PCV13,49,49,1.23,0.98,1.54
+23F,Month 0,3+1,Czech Republic,PHiD-CV,53,51,0.41,0.31,0.55
+23F,Month 0,3+1,Czech Republic,PCV13,45,45,0.28,0.22,0.36
+23F,Month 0,2+1,Slovakia,PHiD-CV,39,38,0.34,0.25,0.46
+23F,Month 0,2+1,Slovakia,PCV13,49,49,0.2,0.15,0.26
+23F,Month 1,3+1,Czech Republic,PHiD-CV,53,51,5.56,4.18,7.39
+23F,Month 1,3+1,Czech Republic,PCV13,45,45,4.35,3.25,5.82
+23F,Month 1,2+1,Slovakia,PHiD-CV,39,38,5.01,3.56,7.04
+23F,Month 1,2+1,Slovakia,PCV13,49,49,3.62,2.76,4.76
+23F,Month 12,3+1,Czech Republic,PHiD-CV,53,48,0.47,0.32,0.7
+23F,Month 12,3+1,Czech Republic,PCV13,45,45,0.37,0.27,0.53
+23F,Month 12,2+1,Slovakia,PHiD-CV,39,38,0.37,0.27,0.53
+23F,Month 12,2+1,Slovakia,PCV13,49,49,0.66,0.41,1.06
