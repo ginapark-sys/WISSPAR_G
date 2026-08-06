@@ -5,7 +5,32 @@
       "Bash(curl:*)",
       "Bash(python:*)",
       "Bash(pip install:*)",
-      "Bash(python3 -c \":*)"
+      "Bash(python3 -c \":*)",
+      "Bash(where python3 *)",
+      "Read(//c/Users/AnigL/AppData/Local/Programs/**)",
+      "Bash(py -3 -c \"import docx; print\\('ok'\\)\")",
+      "Bash(py --version)",
+      "Bash(mkdir -p \"C:/Users/AnigL/AppData/Local/Temp/claude/c--Users-AnigL-OneDrive-Desktop-RProjects-WISSPAR-G/754810fc-980c-486a-b9f8-abb2f7611ec2/scratchpad/thuluva_extract\")",
+      "Bash(unzip -o \"C:/Users/AnigL/OneDrive/Desktop/RProjects/WISSPAR_G/data/publications/ThuluvaMarch2026_supplementary.docx\" -d docx_unzipped)",
+      "Bash(py -3 parse_docx.py)",
+      "Bash(py -3 -c ' *)",
+      "Bash(py -3 -c \"import fitz; print\\('fitz ok'\\)\")",
+      "Bash(py -3 -c \"import pypdf; print\\('pypdf ok'\\)\")",
+      "Bash(py -3 -c \"import PyPDF2; print\\('PyPDF2 ok'\\)\")",
+      "Bash(where pdftotext *)",
+      "Bash(pdftotext -layout \"C:/Users/AnigL/OneDrive/Desktop/RProjects/WISSPAR_G/data/publications/Thuluva_March2026.pdf\" thuluva_full.txt)",
+      "Bash(mkdir -p \"data/extractions/Urbancikova_2017\")",
+      "PowerShell(py --version)",
+      "PowerShell(python --version)",
+      "PowerShell(py \"C:\\\\Users\\\\AnigL\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\c--Users-AnigL-OneDrive-Desktop-RProjects-WISSPAR-G\\\\b485d273-0c65-47ba-b11b-2dd20ae62356\\\\scratchpad\\\\build_urbancikova_gmc.py\")",
+      "Bash(py -3 build_table_s7.py)",
+      "Bash(mkdir -p \"C:/Users/AnigL/OneDrive/Desktop/RProjects/WISSPAR_G/data/extractions/CTRI-2022-11-047366\")",
+      "Bash(cp \"C:/Users/AnigL/AppData/Local/Temp/claude/c--Users-AnigL-OneDrive-Desktop-RProjects-WISSPAR-G/754810fc-980c-486a-b9f8-abb2f7611ec2/scratchpad/thuluva_extract/table_s7_gmc.csv\" \"C:/Users/AnigL/OneDrive/Desktop/RProjects/WISSPAR_G/data/extractions/CTRI-2022-11-047366/table_s7_gmc.csv\")",
+      "Bash(git config *)",
+      "Bash(git --version)"
+    ],
+    "additionalDirectories": [
+      "C:\\Users\\AnigL\\OneDrive\\Desktop\\RProjects\\WISSPAR_G\\data\\extractions"
     ]
   }
 }
